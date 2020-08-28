@@ -5,6 +5,7 @@ import Contributions from '../../data/police-contributions.json'
 import { SSL_OP_NETSCAPE_REUSE_CIPHER_CHANGE_BUG } from "constants"
 
 function searchInContributions(toFind){
+  toFind = toFind.toLowerCase();
   const toRet = Contributions.filter(
     (contribution) =>
         contribution.policeDeptPac.toLowerCase().includes(toFind) || 
