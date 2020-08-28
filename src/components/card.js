@@ -46,15 +46,13 @@ export default function Card({person}){
     const color = hslToRgb(0, Math.min(Math.max(contribution, 2500), 10000.0)/15000.0, .42)
     return (
             <div className={styles.card}>
-                <div className={styles.card_body}>
-                    <div className={styles.card_element}>
-                        <h5 className={styles.card_title}>{person.electedOfficialName}</h5>
-                        <p className={styles.card_text}> {person.officeRanForOrDescription} </p> 
-                        <p className={`${styles.card_text} ${styles.text_muted}`}> {person.districtOrJurisdiction} </p>
-                    </div>
-                    <div className={styles.amount_due} style={{backgroundColor: color}}>
-                        <p className={styles.card_text}>{person.totalContribution}</p>
-                    </div>
+                <div className={styles.card_element}>
+                    <h4 className={styles.card_title}>{person.electedOfficialName}</h4>
+                    <h5 className={styles.card_text}> {person.officeRanForOrDescription} </h5> 
+                    <p className={`${styles.card_text} ${styles.text_muted}`}> {person.districtOrJurisdiction} </p>
+                </div>
+                <div className={styles.amount_due} style={{backgroundColor: color}}>
+                    <p className={styles.card_text}>{person.totalContribution}</p>
                 </div>
             </div>
     )

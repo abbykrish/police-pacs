@@ -3,19 +3,19 @@
     padding: 0px;
     border-radius: 12px;
     width: 31%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-shadow: 5px 5px 5px grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.card_body{
-    padding: 0px;
-}
-
-
-.card_body-body .card-element{
+.card_element{
     padding: 1.25rem;
     padding-left: 20px;
 }
 
-.amount-due{
+.amount_due{
     border-top-right-radius: 12px;
     border-bottom-right-radius: 12px;
     background-clip: border-box;
@@ -23,10 +23,17 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-left: 24px;
+    padding-right: 24px;
+    min-width: 100px;
 }
 
-.amount-due .card-text{
+.amount_due .card_text{
     text-align: center;
+}
+
+.text_muted{
+    color: gray;
 }
 
 .locations{
