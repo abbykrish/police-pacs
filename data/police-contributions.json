@@ -1,1740 +1,2110 @@
 [
     {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "Chris Paddie",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "9",
-        "totalContribution": "$2,500.00",
-        "contactLink": "chris.paddie@house.texas.gov",
+        "fullPosition": "Texas State Senate District 30",
         "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $2,500.00\nTexas Municipal Police Assn. PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "Frederick Frazier",
-        "officeRanForOrDescription": "McKinney City Council",
-        "districtOrJurisdiction": "At-Large",
-        "totalContribution": "$2,000.00",
-        "contactLink": "frazier7324@tx.rr.com",
-        "extra": "Commissioner on President Trump's Commision on Law Enforcement",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $2,000.00\nHouston Police Officers Union PAC : $500.00\nMcKinney Police Association FOP #107 : $2,000.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "John Whitmire",
-        "officeRanForOrDescription": "Texas State Senate",
-        "districtOrJurisdiction": "15",
-        "totalContribution": "$2,000.00",
-        "contactLink": "john.whitmire@senate.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $2,000.00\nHouston Police Officers Union PAC : $10,000.00\nHouston Police Retired Officers Association - P.A.C. : $1,500.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "Adam B Gough",
-        "officeRanForOrDescription": "Dallas City Council",
-        "districtOrJurisdiction": "10",
-        "totalContribution": "$1,000.00",
-        "contactLink": "adam.mcgough@dallascityhall.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "Angela Paxton",
-        "officeRanForOrDescription": "Texas State Senate",
-        "districtOrJurisdiction": "8",
-        "totalContribution": "$1,000.00",
-        "contactLink": "angela.paxton@senate.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $1,000.00\nCombined Law Enforcement Assns. Of Texas PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "Cara Medelsohn",
-        "officeRanForOrDescription": "Dallas City Council",
-        "districtOrJurisdiction": "12",
-        "totalContribution": "$1,000.00",
-        "contactLink": "cara.mendelsohn@dallascityhall.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "Clint McNear",
-        "officeRanForOrDescription": "Kaufman County Sheriff",
-        "districtOrJurisdiction": "Kaufman County",
-        "totalContribution": "$1,000.00",
-        "contactLink": "clint@mcnearforsheriff.com",
-        "extra": "Lost",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "Dan Patrick",
-        "officeRanForOrDescription": "Lt. Governor",
-        "districtOrJurisdiction": "Texas",
-        "totalContribution": "$1,000.00",
-        "contactLink": "info@danpatrick.org",
-        "extra": "",
-        "alternateContact": "https://www.ltgov.state.tx.us/contact/contact-general/",
-        "contributionSummary": "Dallas Police Officer's PAC : $1,000.00\nHouston Police Officers Union PAC : $5,000.00\nHouston Police Retired Officers Association - P.A.C. : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "Justin L Berry ",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "47",
-        "totalContribution": "$1,000.00",
-        "contactLink": "",
-        "extra": "Runoff in July",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $1,000.00\nSan Antonio Police Officers Assn. PAC : $1,500.00\nHouston Police Officers Union PAC : $1,000.00\nAustin Police Association PAC : $5,000.00\nCombined Law Enforcement Assns. Of Texas PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "Ken Paxton",
-        "officeRanForOrDescription": "Texas Attorney General",
-        "districtOrJurisdiction": "Texas",
-        "totalContribution": "$1,000.00",
-        "contactLink": "info@kenpaxton.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $1,000.00\nHouston Police Officers Union PAC : $7,500.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "Morgan Meyer",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "108",
-        "totalContribution": "$1,000.00",
-        "contactLink": "morgan.meyer@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
+        "contributionSummary": {
+            "Dallas Police Officer's PAC": 1000.00
+        },
         "electedOfficialName": "Pat Fallon",
-        "officeRanForOrDescription": "Texas State Senate",
-        "districtOrJurisdiction": "30",
-        "totalContribution": "$1,000.00",
         "contactLink": "Pat.Fallon@senate.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "Tennel Atkins",
-        "officeRanForOrDescription": "Dallas City Council",
-        "districtOrJurisdiction": "8",
-        "totalContribution": "$750.00",
-        "contactLink": "maria.salazar2@dallascityhall.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $750.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "Carolyn King Arnold",
-        "officeRanForOrDescription": "Dallas City Council",
-        "districtOrJurisdiction": "4",
-        "totalContribution": "$500.00",
-        "contactLink": "District4@DallasCityHall.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "Christina Morales",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "145",
-        "totalContribution": "$500.00",
-        "contactLink": "",
-        "extra": "",
-        "alternateContact": "https://house.texas.gov/members/member-page/email/?district=145&session=86",
-        "contributionSummary": "Dallas Police Officer's PAC : $500.00\nHouston Police Officers Union PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "Jennifer Gates",
-        "officeRanForOrDescription": "Dallas City Council",
-        "districtOrJurisdiction": "13",
-        "totalContribution": "$500.00",
-        "contactLink": "jennifer.gates@dallascityhall.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "John W. Turner",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "114",
-        "totalContribution": "$500.00",
-        "contactLink": "john.turner@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "Linda Koop ",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "102",
-        "totalContribution": "$500.00",
-        "contactLink": "Linda@lindakoop.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "Rafael Anchia",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "103",
-        "totalContribution": "$500.00",
-        "contactLink": "rafael.anchia@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "Adam Medrano",
-        "officeRanForOrDescription": "Dallas City Council",
-        "districtOrJurisdiction": "2",
-        "totalContribution": "$250.00",
-        "contactLink": "adam.medrano@dallascityhall.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $250.00"
-    },
-    {
-        "policeDeptPac": "Dallas Police Officer's PAC",
-        "electedOfficialName": "Omar Narvaez",
-        "officeRanForOrDescription": "Dallas City Council",
-        "districtOrJurisdiction": "6",
-        "totalContribution": "$250.00",
-        "contactLink": "Laura.Cadena@dallascityhall.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Dallas Police Officer's PAC : $250.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "Ray Lopez",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "125",
-        "totalContribution": "$3,000.00",
-        "contactLink": "ray.lopez@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $3,000.00\nSan Antonio Fire & Police Pensioners Association - PAC : $1,000.00\nCombined Law Enforcement Assns. Of Texas PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "Jose Menendez ",
-        "officeRanForOrDescription": "Texas State Senate",
-        "districtOrJurisdiction": "26",
-        "totalContribution": "$1,500.00",
-        "contactLink": "jose.menendez@senate.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $1,500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "Ina Minjares",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "124",
-        "totalContribution": "$1,500.00",
-        "contactLink": "ina.minjarez@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $1,500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "Leo Pacheco",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "118",
-        "totalContribution": "$1,500.00",
-        "contactLink": "leo.pacheco@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $1,500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "Stephen Allison",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "121",
-        "totalContribution": "$1,500.00",
-        "contactLink": "steve.allison@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $1,500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "Trey Martinez Fischer ",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "116",
-        "totalContribution": "$1,500.00",
-        "contactLink": "Trey.MartinezFischer@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $1,500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "Jennifer Ramos",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "119",
-        "totalContribution": "$1,000.00",
-        "contactLink": "jennramoscampaign@gmail.com",
-        "extra": "Runoff in July",
-        "alternateContact": "",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "Melissa Havrda",
-        "officeRanForOrDescription": "San Antonio City Council",
-        "districtOrJurisdiction": "6",
-        "totalContribution": "$1,000.00",
-        "contactLink": "district6@sanantonio.gov",
-        "extra": "",
-        "alternateContact": "https://www.sanantonio.gov/Council/d6/Contact?sendto=District6",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $1,000.00\nSan Antonio Fire & Police Pensioners Association - PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "Ana Sandoval",
-        "officeRanForOrDescription": "San Antonio City Council",
-        "districtOrJurisdiction": "7",
-        "totalContribution": "$500.00",
-        "contactLink": "district7@sanantonio.gov",
-        "extra": "",
-        "alternateContact": "https://www.sanantonio.gov/Council/d7/Contact?sendto=District7",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "Adriana Garcia",
-        "officeRanForOrDescription": "San Antonio City Council",
-        "districtOrJurisdiction": "4",
-        "totalContribution": "$500.00",
-        "contactLink": "district4@sanantonio.gov",
-        "extra": "",
-        "alternateContact": "https://www.sanantonio.gov/Council/d4/Contact?sendto=District4",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $500.00\nSan Antonio Police Officers Assn. PAC : $500.00\nSan Antonio Fire & Police Pensioners Association - PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "Angeliza Jimenez ",
-        "officeRanForOrDescription": "District Court Judge",
-        "districtOrJurisdiction": "408 DC",
-        "totalContribution": "$500.00",
-        "contactLink": "",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "Clayton Perry",
-        "officeRanForOrDescription": "San Antonio City Council",
-        "districtOrJurisdiction": "10",
-        "totalContribution": "$500.00",
-        "contactLink": "",
-        "extra": "",
-        "alternateContact": "https://www.sanantonio.gov/Council/d10/Contact?sendto=District10",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "David Newell",
-        "officeRanForOrDescription": "Texas Court of Criminal Appeals",
-        "districtOrJurisdiction": "Place 9",
-        "totalContribution": "$500.00",
-        "contactLink": "judgenewell@gmail.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "John Courage",
-        "officeRanForOrDescription": "San Antonio City Council",
-        "districtOrJurisdiction": "9",
-        "totalContribution": "$500.00",
-        "contactLink": "",
-        "extra": "",
-        "alternateContact": "https://www.sanantonio.gov/Council/d9/Contact?sendto=District9",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $500.00\nSan Antonio Fire & Police Pensioners Association - PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "Bert Richardson",
-        "officeRanForOrDescription": "Texas Court of Criminal Appeals",
-        "districtOrJurisdiction": "Place 3",
-        "totalContribution": "$500.00",
-        "contactLink": "",
-        "extra": "",
-        "alternateContact": "http://www.electjudgerichardson.com/contact.php",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "Justin Rodriguez",
-        "officeRanForOrDescription": "Bexar County Commissioner",
-        "districtOrJurisdiction": "Pct. 2",
-        "totalContribution": "$500.00",
-        "contactLink": "precinct2commissioner@bexar.org",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "Michael Mery",
-        "officeRanForOrDescription": "District Court Judge",
-        "districtOrJurisdiction": "37 DC",
-        "totalContribution": "$500.00",
-        "contactLink": "",
-        "extra": "",
-        "alternateContact": "210-335-2515",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "Rosie Alvarado",
-        "officeRanForOrDescription": "District Court Judge",
-        "districtOrJurisdiction": "438 DC",
-        "totalContribution": "$500.00",
-        "contactLink": "",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Police Officers Assn. PAC",
-        "electedOfficialName": "Ino Badillo",
-        "officeRanForOrDescription": "Bexar County Constable",
-        "districtOrJurisdiction": "Pct. 2",
-        "totalContribution": "$300.00",
-        "contactLink": "",
-        "extra": "currently running, 70k in overtime salary!!",
-        "alternateContact": "https://www.voteino.com/get-involved",
-        "contributionSummary": "San Antonio Police Officers Assn. PAC : $300.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Mary Nan Huffman",
-        "officeRanForOrDescription": "Harris County District Attorney",
-        "districtOrJurisdiction": "Harris County",
-        "totalContribution": "$10,000.00",
-        "contactLink": "campaign@marynanhuffman.com",
-        "extra": "Lost, legal team at houston's police officer union",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $10,000.00\nHouston Police Retired Officers Association - P.A.C. : $500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Michael Kubosh",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "At-Large",
-        "totalContribution": "$10,000.00",
-        "contactLink": "atlarge3@houstontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $10,000.00\nHouston Police Retired Officers Association - P.A.C. : $500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Sylvester Turner",
-        "officeRanForOrDescription": "Mayor of Houston",
-        "districtOrJurisdiction": "Houston",
-        "totalContribution": "$10,000.00",
-        "contactLink": "sylvester.turner@houstontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $10,000.00\nHouston Police Retired Officers Association - P.A.C. : $2,000.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Joan Huffman",
-        "officeRanForOrDescription": "Texas State Senate",
-        "districtOrJurisdiction": "17",
-        "totalContribution": "$10,000.00",
-        "contactLink": "Joan.Huffman@senate.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $10,000.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Amy Peck",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "A",
-        "totalContribution": "$8,500.00",
-        "contactLink": "districta@houstontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $8,500.00\nHouston Police Retired Officers Association - P.A.C. : $500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "David W Robinson",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "At-Large",
-        "totalContribution": "$7,500.00",
-        "contactLink": "atlarge2@houstontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $7,500.00\nHouston Police Retired Officers Association - P.A.C. : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Karla Cisneros ",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "H",
-        "totalContribution": "$7,500.00",
-        "contactLink": "districth@houstontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $7,500.00\nHouston Police Retired Officers Association - P.A.C. : $1,200.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Martha Castex-Tatum ",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "K",
-        "totalContribution": "$7,500.00",
-        "contactLink": "districtk@houstontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $7,500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Sallie Alcorn",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "At-Large",
-        "totalContribution": "$6,000.00",
-        "contactLink": "atlarge5@houstontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $6,000.00\nHouston Police Retired Officers Association - P.A.C. : $500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Barry Curtis",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "J",
-        "totalContribution": "$5,000.00",
-        "contactLink": "",
-        "extra": "Lost",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $5,000.00\nHouston Police Retired Officers Association - P.A.C. : $250.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Borris Lee Miles",
-        "officeRanForOrDescription": "Texas State Senate",
-        "districtOrJurisdiction": "13",
-        "totalContribution": "$5,000.00",
-        "contactLink": "",
-        "extra": "",
-        "alternateContact": "https://senate.texas.gov/memberform.php?auth=UU%2FYuArHSOnVYhsbQDKrBuJ8EIczWG%2FyS3Sy5gJZ0Nc6XzpfOgyfPNtJysGjjpZvNM8G08SpJRhEdL2UIJkGBekSGKFDLJwLOnw6fDrgGm84Y4MQwNmqlkYFspIL&lang=en",
-        "contributionSummary": "Houston Police Officers Union PAC : $5,000.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Brenda Stardig ",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "A",
-        "totalContribution": "$5,000.00",
-        "contactLink": "districta@houstontx.gov",
-        "extra": "Lost",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $5,000.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Carol Alvarado",
-        "officeRanForOrDescription": "Texas State Senate",
-        "districtOrJurisdiction": "6",
-        "totalContribution": "$5,000.00",
-        "contactLink": "carol.alvarado@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $5,000.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "David Martin",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "E",
-        "totalContribution": "$5,000.00",
-        "contactLink": "districte@houstontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $5,000.00\nHouston Police Retired Officers Association - P.A.C. : $500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Greg Travis",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "G",
-        "totalContribution": "$5,000.00",
-        "contactLink": "districtg@houstontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $5,000.00\nHouston Police Retired Officers Association - P.A.C. : $500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Maria T Jackson",
-        "officeRanForOrDescription": "Harris County Commissioner",
-        "districtOrJurisdiction": "Harris County",
-        "totalContribution": "$5,000.00",
-        "contactLink": "",
-        "extra": "Lost",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $5,000.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Robert Gallegos",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "I",
-        "totalContribution": "$5,000.00",
-        "contactLink": "districti@houstontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $5,000.00\nHouston Police Retired Officers Association - P.A.C. : $500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Amanda Edwards",
-        "officeRanForOrDescription": "US Senate",
-        "districtOrJurisdiction": "Texas",
-        "totalContribution": "$2,500.00",
-        "contactLink": "",
-        "extra": "Lost, was Houston City Council before",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $2,500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Chris Brown",
-        "officeRanForOrDescription": "Houston Controller",
-        "districtOrJurisdiction": "Houston",
-        "totalContribution": "$2,500.00",
-        "contactLink": "",
-        "extra": "",
-        "alternateContact": "https://www.houstontx.gov/controller/contact-search.html",
-        "contributionSummary": "Houston Police Officers Union PAC : $2,500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Ed Gonzalez ",
-        "officeRanForOrDescription": "Harris County Sheriff",
-        "districtOrJurisdiction": "Harris County",
-        "totalContribution": "$2,500.00",
-        "contactLink": "Sheriff.Gonzalez@sheriff.hctx.net",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $2,500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Todd Overstreet",
-        "officeRanForOrDescription": "Harris County District Attorney",
-        "districtOrJurisdiction": "Harris County",
-        "totalContribution": "$2,500.00",
-        "contactLink": "",
-        "extra": "Lost, but an attorney",
-        "alternateContact": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/MemberDirectory/MemberDirectoryEmail.cfm&ContactID=193520",
-        "contributionSummary": "Houston Police Officers Union PAC : $2,500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Abbie Kamin",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "C",
-        "totalContribution": "$2,000.00",
-        "contactLink": "districtc@houstontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $2,000.00\nHouston Police Retired Officers Association - P.A.C. : $500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Carolyn Evans-Shabazz",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "D",
-        "totalContribution": "$2,000.00",
-        "contactLink": "districtd@houstontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $2,000.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Edward Pollard",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "J",
-        "totalContribution": "$2,000.00",
-        "contactLink": "districtj@houstontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $2,000.00\nHouston Police Retired Officers Association - P.A.C. : $500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Ana Hernandez",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "143",
-        "totalContribution": "$1,500.00",
-        "contactLink": "anahernandezcampaign@gmail.com",
-        "extra": "Election in Nov",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Brett Ligon",
-        "officeRanForOrDescription": "Montgomery County District Attorney",
-        "districtOrJurisdiction": "Montgomery County",
-        "totalContribution": "$1,500.00",
-        "contactLink": "DA.Info@mctx.org",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,500.00\nMontgomery County Law Enforcement Association : $2,500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Dennis Paul",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "129",
-        "totalContribution": "$1,500.00",
-        "contactLink": "Dennis.Paul@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Dan Huberty",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "127",
-        "totalContribution": "$1,500.00",
-        "contactLink": "dan.huberty@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,500.00\nTexas Municipal Police Assn. PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Jim Murphy",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "133",
-        "totalContribution": "$1,500.00",
-        "contactLink": "Jim.Murphy@house.mo.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Tom Oliverson",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "130",
-        "totalContribution": "$1,500.00",
-        "contactLink": "tom.oliverson@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Jarvis Johnson",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "139",
-        "totalContribution": "$1,500.00",
-        "contactLink": "jarvis.johnson@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Shawn Thierry",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "146",
-        "totalContribution": "$1,500.00",
-        "contactLink": "shawn.thierry@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,500.00\nHouston Police Retired Officers Association - P.A.C. : $500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Anna Eastman",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "148",
-        "totalContribution": "$1,000.00",
-        "contactLink": "anna@voteannaeastman.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,000.00\nHouston Police Retired Officers Association - P.A.C. : $250.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Anthony Dolcefino",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "At-Large",
-        "totalContribution": "$1,000.00",
-        "contactLink": "anthony@dolcefinoforhouston.com",
-        "extra": "Lost",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,000.00\nHouston Police Retired Officers Association - P.A.C. : $250.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Dan Flynn ",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "2",
-        "totalContribution": "$1,000.00",
-        "contactLink": "dan.flynn@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,000.00\nTexas Municipal Police Assn. PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Eric Fagan ",
-        "officeRanForOrDescription": "Fort Bend County Sheriff ",
-        "districtOrJurisdiction": "Fort Bend",
-        "totalContribution": "$1,000.00",
-        "contactLink": "hello@ericfagan.com",
-        "extra": "Runoff on July 14th",
-        "alternateContact": "https://www.ericfagan.com/contact",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Gina Calanni ",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "132",
-        "totalContribution": "$1,000.00",
-        "contactLink": "gina.calanni@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Glenn Hegar Jr ",
-        "officeRanForOrDescription": "Texas Comptroller of Public Accounts",
-        "districtOrJurisdiction": "Texas",
-        "totalContribution": "$1,000.00",
-        "contactLink": "glenn.hegar@cpa.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Jane Nelson ",
-        "officeRanForOrDescription": "Texas State Senate",
-        "districtOrJurisdiction": "12",
-        "totalContribution": "$1,000.00",
-        "contactLink": "jane.nelson@senate.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Leticia Plummer ",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "At-Large",
-        "totalContribution": "$1,000.00",
-        "contactLink": "atlarge4@houstontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,000.00\nHouston Police Retired Officers Association - P.A.C. : $250.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Letitia Plummer ",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "At-Large",
-        "totalContribution": "$1,000.00",
-        "contactLink": "atlarge4@houstontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Tiffany Thomas ",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "F",
-        "totalContribution": "$1,000.00",
-        "contactLink": "districtf@houstontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Vince Ryan ",
-        "officeRanForOrDescription": "Harris County Attorney",
-        "districtOrJurisdiction": "Harris County",
-        "totalContribution": "$1,000.00",
-        "contactLink": "robert.soard@cao.hctx.net",
-        "extra": "",
-        "alternateContact": "https://www.harriscountycao.org/contact-us",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Wanda Adams ",
-        "officeRanForOrDescription": "Houston ISD School Board",
-        "districtOrJurisdiction": "IX",
-        "totalContribution": "$1,000.00",
-        "contactLink": "wadams2@houstonisd.org",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Alan Rosen ",
-        "officeRanForOrDescription": "Harris County Constable",
-        "districtOrJurisdiction": "Pct. 1",
-        "totalContribution": "$600.00",
-        "contactLink": "community@cn1.hctx.net",
-        "extra": "Election in Nov",
-        "alternateContact": "(713) 755-5200",
-        "contributionSummary": "Houston Police Officers Union PAC : $600.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Mark Herman",
-        "officeRanForOrDescription": "Harris County Constable",
-        "districtOrJurisdiction": "Pct. 4",
-        "totalContribution": "$600.00",
-        "contactLink": "",
-        "extra": "",
-        "alternateContact": "281-376-3472",
-        "contributionSummary": "Houston Police Officers Union PAC : $600.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "May Walker ",
-        "officeRanForOrDescription": "Harris County Constable",
-        "districtOrJurisdiction": "Pct. 7",
-        "totalContribution": "$600.00",
-        "contactLink": "Anna.Carriere@cn7.hctx.net",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $600.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Ted Heap ",
-        "officeRanForOrDescription": "Harris County Constable",
-        "districtOrJurisdiction": "Pct. 5",
-        "totalContribution": "$600.00",
-        "contactLink": "C5IAD@cn5.hctx.net",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $600.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Officers Union PAC",
-        "electedOfficialName": "Jon Rosenthal ",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "135",
-        "totalContribution": "$500.00",
-        "contactLink": "jon.rosenthal@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Officers Union PAC : $500.00\nHouston Police Retired Officers Association - P.A.C. : $500.00"
-    },
-    {
-        "policeDeptPac": "Texas Municipal Police Assn. PAC",
-        "electedOfficialName": "Keith Bell ",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "4",
-        "totalContribution": "$1,287.04",
-        "contactLink": "keith.bell@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Texas Municipal Police Assn. PAC : $1,287.04"
-    },
-    {
-        "policeDeptPac": "Texas Municipal Police Assn. PAC",
-        "electedOfficialName": "Eddie Lucio Jr ",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "27",
-        "totalContribution": "$1,000.00",
-        "contactLink": "eddie.lucio@senate.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Texas Municipal Police Assn. PAC : $1,000.00\nCombined Law Enforcement Assns. Of Texas PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Texas Municipal Police Assn. PAC",
-        "electedOfficialName": "Alex Dominquez",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "37",
-        "totalContribution": "$500.00",
-        "contactLink": "alex.dominguez@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Texas Municipal Police Assn. PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Texas Municipal Police Assn. PAC",
-        "electedOfficialName": "Drew Darby ",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "72",
-        "totalContribution": "$500.00",
-        "contactLink": "drew.darby@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Texas Municipal Police Assn. PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Texas Municipal Police Assn. PAC",
-        "electedOfficialName": "Eddie Lucio  III",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "38",
-        "totalContribution": "$500.00",
-        "contactLink": "eddie.lucio_iii@house.texas.gov .",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Texas Municipal Police Assn. PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Texas Municipal Police Assn. PAC",
-        "electedOfficialName": "Geanie Morrison ",
-        "officeRanForOrDescription": "Texas House of Representatives",
         "districtOrJurisdiction": "30",
-        "totalContribution": "$500.00",
-        "contactLink": "Geanie.Morrison@house.texas.gov",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas State Senate",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "San Antonio City Council Place 7",
         "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Texas Municipal Police Assn. PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Texas Municipal Police Assn. PAC",
-        "electedOfficialName": "J D Sheffield ",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "59",
-        "totalContribution": "$500.00",
-        "contactLink": "j.d.sheffield@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Texas Municipal Police Assn. PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Texas Municipal Police Assn. PAC",
-        "electedOfficialName": "Phil W Stephenson ",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "85",
-        "totalContribution": "$500.00",
-        "contactLink": "Phil.Stephenson@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Texas Municipal Police Assn. PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Texas Municipal Police Assn. PAC",
-        "electedOfficialName": "Sergio Munoz Jr ",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "36",
-        "totalContribution": "$500.00",
-        "contactLink": "Sergio.Munoz@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Texas Municipal Police Assn. PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Fire & Police Pensioners Association - PAC",
-        "electedOfficialName": "Greg Brockhouse",
-        "officeRanForOrDescription": "San Antonio Mayor",
-        "districtOrJurisdiction": "San Antonio",
-        "totalContribution": "$1,500.00",
-        "contactLink": "",
-        "extra": "Lost election for Mayor",
-        "alternateContact": "https://gregbrockhouse.com/Contact/",
-        "contributionSummary": "San Antonio Fire & Police Pensioners Association - PAC : $1,500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Fire & Police Pensioners Association - PAC",
-        "electedOfficialName": "Elizabeth Campos",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "119",
-        "totalContribution": "$1,500.00",
-        "contactLink": "liz@lizcampos.com",
-        "extra": "Runoff in July",
-        "alternateContact": "",
-        "contributionSummary": "San Antonio Fire & Police Pensioners Association - PAC : $1,500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Fire & Police Pensioners Association - PAC",
-        "electedOfficialName": "Ina Minjarez ",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "124",
-        "totalContribution": "$1,500.00",
-        "contactLink": "ina.minjarez@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "San Antonio Fire & Police Pensioners Association - PAC : $1,500.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Fire & Police Pensioners Association - PAC",
-        "electedOfficialName": "Rolando Gutierrez ",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "119",
-        "totalContribution": "$900.00",
-        "contactLink": "Roland.Gutierrez@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "San Antonio Fire & Police Pensioners Association - PAC : $900.00"
-    },
-    {
-        "policeDeptPac": "San Antonio Fire & Police Pensioners Association - PAC",
-        "electedOfficialName": "Jada Andrews-Sullivan",
+        "contributionSummary": {
+            "San Antonio Police Officers Assn. PAC": 500.00
+        },
+        "electedOfficialName": "Ana Sandoval",
+        "contactLink": "district7@sanantonio.gov",
+        "districtOrJurisdiction": "7",
+        "alternateContact": "https://www.sanantonio.gov/Council/d7/Contact?sendto=District7",
         "officeRanForOrDescription": "San Antonio City Council",
-        "districtOrJurisdiction": "2",
-        "totalContribution": "$500.00",
-        "contactLink": "district2@sanantonio.gov",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Houston City Council Place J",
         "extra": "",
-        "alternateContact": "https://www.sanantonio.gov/Council/d2/Contact?sendto=District2",
-        "contributionSummary": "San Antonio Fire & Police Pensioners Association - PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Austin Police Association PAC",
-        "electedOfficialName": "Margaret Moore",
-        "officeRanForOrDescription": "Travis County District Attorney",
-        "districtOrJurisdiction": "Travis County",
-        "totalContribution": "$11,000.00",
-        "contactLink": "MargaretForDA@gmail.com",
-        "extra": "Runoff in July",
-        "alternateContact": "",
-        "contributionSummary": "Austin Police Association PAC : $11,000.00\nTravis County Sheriff's Law Enforcement Association PAC : $4,000.00"
-    },
-    {
-        "policeDeptPac": "Austin Police Association PAC",
-        "electedOfficialName": "CLEAT PAC",
-        "officeRanForOrDescription": "Police Union",
-        "districtOrJurisdiction": "Texas",
-        "totalContribution": "$10,000.00",
-        "contactLink": "charley.Wilkison@cleat.org",
-        "extra": "",
-        "alternateContact": "https://www.cleat.org/contact-us/",
-        "contributionSummary": "Austin Police Association PAC : $10,000.00\nArlington Police Assn. PAC : $2,500.00\nWaco Police Association Political Action Committee : $5,000.00\nEl Paso Municipal Police Officers' Association PAC : $10,000.00\nEl Paso County Sheriff's Officers Assn., Inc. : $5,000.00\nCorpus Christi Police Officers' Assn. PAC Fund : $2,500.00"
-    },
-    {
-        "policeDeptPac": "Austin Police Association PAC",
-        "electedOfficialName": "Mike Denton ",
-        "officeRanForOrDescription": "Travis County Attorney",
-        "districtOrJurisdiction": "Travis County",
-        "totalContribution": "$5,000.00",
-        "contactLink": "mike@votemikedenton.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Austin Police Association PAC : $5,000.00\nTravis County Sheriff's Law Enforcement Association PAC : $2,500.00"
-    },
-    {
-        "policeDeptPac": "Austin Police Association PAC",
-        "electedOfficialName": "Valencia Escobar",
-        "officeRanForOrDescription": "",
-        "districtOrJurisdiction": "",
-        "totalContribution": "$2,600.00",
-        "contactLink": "",
-        "extra": "Austin Police Association Executive Director",
-        "alternateContact": "https://www.apapac.com/",
-        "contributionSummary": "Austin Police Association PAC : $2,600.00"
-    },
-    {
-        "policeDeptPac": "Austin Police Association PAC",
-        "electedOfficialName": "Eddie Rodriguez ",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "51",
-        "totalContribution": "$1,000.00",
-        "contactLink": "Eddie.Rodriguez@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Austin Police Association PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Austin Police Association PAC",
-        "electedOfficialName": "Jeff Travillion",
-        "officeRanForOrDescription": "Travis County Commissioners Court",
-        "districtOrJurisdiction": "1",
-        "totalContribution": "$1,000.00",
-        "contactLink": "travillioncampaign@gmail.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Austin Police Association PAC : $1,000.00\nTravis County Sheriff's Law Enforcement Association PAC : $10,000.00"
-    },
-    {
-        "policeDeptPac": "Austin Police Association PAC",
-        "electedOfficialName": "Kirk Watson ",
-        "officeRanForOrDescription": "Texas State Senate",
-        "districtOrJurisdiction": "14",
-        "totalContribution": "$1,000.00",
-        "contactLink": "kirk.watson@senate.state.tx.us",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Austin Police Association PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Austin Police Association PAC",
-        "electedOfficialName": "Sam Holt ",
-        "officeRanForOrDescription": "Travis County Constable",
-        "districtOrJurisdiction": "Pct. 1",
-        "totalContribution": "$1,000.00",
-        "contactLink": "HOLTSAM.AC398@yahoo.com",
-        "extra": "Lost",
-        "alternateContact": "",
-        "contributionSummary": "Austin Police Association PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Austin Police Association PAC",
-        "electedOfficialName": "Chari Kelly ",
-        "officeRanForOrDescription": "Texas Third District Court of Appeals",
-        "districtOrJurisdiction": "Place 3",
-        "totalContribution": "$500.00",
-        "contactLink": "chari_kelly@yahoo.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Austin Police Association PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Austin Police Association PAC",
-        "electedOfficialName": "Dayna Blazey ",
-        "officeRanForOrDescription": "Texas District Court",
-        "districtOrJurisdiction": "167",
-        "totalContribution": "$500.00",
-        "contactLink": "dayna@daynaforjudge.com",
-        "extra": "Election in Nov",
-        "alternateContact": "",
-        "contributionSummary": "Austin Police Association PAC : $500.00\nTravis County Sheriff's Law Enforcement Association PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Austin Police Association PAC",
-        "electedOfficialName": "Judith Zaffirini ",
-        "officeRanForOrDescription": "Texas State Senate",
-        "districtOrJurisdiction": "21",
-        "totalContribution": "$500.00",
-        "contactLink": "judith.zaffirini@senate.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Austin Police Association PAC : $500.00\nCombined Law Enforcement Assns. Of Texas PAC : $2,500.00"
-    },
-    {
-        "policeDeptPac": "Austin Police Association PAC",
-        "electedOfficialName": "Maggie Ellis ",
-        "officeRanForOrDescription": "Texas District Court",
-        "districtOrJurisdiction": "200",
-        "totalContribution": "$500.00",
-        "contactLink": "MAGGIEFORJUDGE@gmail.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Austin Police Association PAC : $500.00\nTravis County Sheriff's Law Enforcement Association PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Arlington Police Assn. PAC",
-        "electedOfficialName": "Barbara Odom Wesley",
-        "officeRanForOrDescription": "Arlington City Council",
-        "districtOrJurisdiction": "8",
-        "totalContribution": "$2,000.00",
-        "contactLink": "Barbara.Odom-Wesley@arlingtontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Arlington Police Assn. PAC : $2,000.00"
-    },
-    {
-        "policeDeptPac": "Arlington Police Assn. PAC",
-        "electedOfficialName": "Ignacio Nunez",
-        "officeRanForOrDescription": "Arlington City Council",
-        "districtOrJurisdiction": "5",
-        "totalContribution": "$2,000.00",
-        "contactLink": "Ignacio.Nunez@arlingtontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Arlington Police Assn. PAC : $2,000.00"
-    },
-    {
-        "policeDeptPac": "Arlington Police Assn. PAC",
-        "electedOfficialName": "Roxanne Thalman",
-        "officeRanForOrDescription": "Arlington City Council",
-        "districtOrJurisdiction": "3",
-        "totalContribution": "$2,000.00",
-        "contactLink": "roxanne@roxannethalman.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Arlington Police Assn. PAC : $2,000.00"
-    },
-    {
-        "policeDeptPac": "Galveston Municipal Police Association Political Action Committee",
-        "electedOfficialName": "Bo Quiroga",
-        "officeRanForOrDescription": "Mayor of Galveston",
-        "districtOrJurisdiction": "",
-        "totalContribution": "$6,500.00",
-        "contactLink": "rogerquiroga@ymail.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Galveston Municipal Police Association Political Action Committee : $6,500.00"
-    },
-    {
-        "policeDeptPac": "Galveston Municipal Police Association Political Action Committee",
-        "electedOfficialName": "Jimmy Fullen",
-        "officeRanForOrDescription": "Galveston County Constable",
-        "districtOrJurisdiction": "Pct. 2",
-        "totalContribution": "$500.00",
-        "contactLink": "webmaster@co.galveston.tx.us",
-        "extra": "",
-        "alternateContact": "(409) 770-6229",
-        "contributionSummary": "Galveston Municipal Police Association Political Action Committee : $500.00"
-    },
-    {
-        "policeDeptPac": "Mesquite Police Association PAC",
-        "electedOfficialName": "Robert Miklos",
-        "officeRanForOrDescription": "Mesquite City Council",
-        "districtOrJurisdiction": "3",
-        "totalContribution": "$1,500.00",
-        "contactLink": "district3@cityofmesquite.com",
-        "extra": "Former (2009-2011)",
-        "alternateContact": "",
-        "contributionSummary": "Mesquite Police Association PAC : $1,500.00"
-    },
-    {
-        "policeDeptPac": "Mesquite Police Association PAC",
-        "electedOfficialName": "Bruce Archer",
-        "officeRanForOrDescription": "Mayor of Mesquite ",
-        "districtOrJurisdiction": "",
-        "totalContribution": "$1,000.00",
-        "contactLink": "mayor@cityofmesquite.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Mesquite Police Association PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Mesquite Police Association PAC",
-        "electedOfficialName": "Sherry Wisdom",
-        "officeRanForOrDescription": "Mesquite City Council",
-        "districtOrJurisdiction": "1",
-        "totalContribution": "$446.60",
-        "contactLink": "district1@cityofmesquite.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Mesquite Police Association PAC : $446.60"
-    },
-    {
-        "policeDeptPac": "Pearland Police Officers Association PAC",
-        "electedOfficialName": "Greg Hill",
-        "officeRanForOrDescription": "United States House  ",
-        "districtOrJurisdiction": "22",
-        "totalContribution": "$1,000.00",
-        "contactLink": "info@electgreghill.com",
-        "extra": "He lost",
-        "alternateContact": "",
-        "contributionSummary": "Pearland Police Officers Association PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Plano Police Association PAC",
-        "electedOfficialName": "Ron Kelly",
-        "officeRanForOrDescription": "Plano City Council",
-        "districtOrJurisdiction": "Place 5",
-        "totalContribution": "$1,500.00",
-        "contactLink": "ronkelley@plano.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Plano Police Association PAC : $1,500.00"
-    },
-    {
-        "policeDeptPac": "Travis County Sheriff's Law Enforcement Association PAC",
-        "electedOfficialName": "Ann Howard",
-        "officeRanForOrDescription": "Travis County Commissioners Court",
-        "districtOrJurisdiction": "3",
-        "totalContribution": "$5,000.00",
-        "contactLink": "AnnForCommissioner@Gmail.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Travis County Sheriff's Law Enforcement Association PAC : $5,000.00"
-    },
-    {
-        "policeDeptPac": "Travis County Sheriff's Law Enforcement Association PAC",
-        "electedOfficialName": "Sally Hernandez ",
-        "officeRanForOrDescription": "Travis County Sheriff",
-        "districtOrJurisdiction": "Travis County",
-        "totalContribution": "$2,500.00",
-        "contactLink": "sally.hernandez@traviscountytx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Travis County Sheriff's Law Enforcement Association PAC : $2,500.00"
-    },
-    {
-        "policeDeptPac": "Travis County Sheriff's Law Enforcement Association PAC",
-        "electedOfficialName": "Amy Meredith ",
-        "officeRanForOrDescription": "Texas District Court",
-        "districtOrJurisdiction": "460",
-        "totalContribution": "$1,000.00",
-        "contactLink": "amymeredithforjudge@gmail.com",
-        "extra": "Lost",
-        "alternateContact": "",
-        "contributionSummary": "Travis County Sheriff's Law Enforcement Association PAC : $1,000.00\nTravis County Sheriff's Law Enforcement Association PAC : $750.00"
-    },
-    {
-        "policeDeptPac": "Travis County Sheriff's Law Enforcement Association PAC",
-        "electedOfficialName": "Dimple Malhorta",
-        "officeRanForOrDescription": "Travis County Court at Law",
-        "districtOrJurisdiction": "4",
-        "totalContribution": "$1,000.00",
-        "contactLink": "DIMPLE4JUDGE@GMAIL.COM",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Travis County Sheriff's Law Enforcement Association PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Travis County Sheriff's Law Enforcement Association PAC",
-        "electedOfficialName": "Tamara Needles ",
-        "officeRanForOrDescription": "Texas District Court",
-        "districtOrJurisdiction": "427",
-        "totalContribution": "$1,000.00",
-        "contactLink": "TAMARA@needlesforjudge.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Travis County Sheriff's Law Enforcement Association PAC : $1,000.00\nTravis County Sheriff's Law Enforcement Association PAC : $600.00"
-    },
-    {
-        "policeDeptPac": "Travis County Sheriff's Law Enforcement Association PAC",
-        "electedOfficialName": "George Morales ",
-        "officeRanForOrDescription": "Travis County Constable",
-        "districtOrJurisdiction": "Pct. 4",
-        "totalContribution": "$500.00",
-        "contactLink": "GEORGE.MORALEIII@GMAIL.COM",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Travis County Sheriff's Law Enforcement Association PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Travis County Sheriff's Law Enforcement Association PAC",
-        "electedOfficialName": "Jeff Anderson",
-        "officeRanForOrDescription": "Williamson County Constable",
-        "districtOrJurisdiction": "Pct. 2",
-        "totalContribution": "$500.00",
-        "contactLink": "Jeff4Constable@gmail.com",
-        "extra": "Election in Nov",
-        "alternateContact": "",
-        "contributionSummary": "Travis County Sheriff's Law Enforcement Association PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "Brownsville Police Officers Association PAC",
-        "electedOfficialName": "Charlie Cabler",
-        "officeRanForOrDescription": "Mayor of Brownsville",
-        "districtOrJurisdiction": "Brownsville",
-        "totalContribution": "$2,000.00",
-        "contactLink": "",
-        "extra": "Lost, still City Manager",
-        "alternateContact": "",
-        "contributionSummary": "Brownsville Police Officers Association PAC : $2,000.00"
-    },
-    {
-        "policeDeptPac": "Brownsville Police Officers Association PAC",
-        "electedOfficialName": "Cowen John",
-        "officeRanForOrDescription": "Brownsville City Commissioner",
-        "districtOrJurisdiction": "At-Large",
-        "totalContribution": "$1,000.00",
-        "contactLink": "john.cowen@cob.us",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Brownsville Police Officers Association PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Brownsville Police Officers Association PAC",
-        "electedOfficialName": "Jessica Tetreau Kalifa",
-        "officeRanForOrDescription": "Brownsville City Commissioner",
-        "districtOrJurisdiction": "2",
-        "totalContribution": "$1,000.00",
-        "contactLink": "jtetreau@cob.us",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Brownsville Police Officers Association PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Brownsville Police Officers Association PAC",
-        "electedOfficialName": "Ricardo Longoria Jr ",
-        "officeRanForOrDescription": "Brownsville City Commissioner",
-        "districtOrJurisdiction": "1",
-        "totalContribution": "$1,000.00",
-        "contactLink": "",
-        "extra": "Lost",
-        "alternateContact": "",
-        "contributionSummary": "Brownsville Police Officers Association PAC : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Corpus Christi Police Officers' Assn. PAC Fund",
-        "electedOfficialName": "Abel Herrero",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "34",
-        "totalContribution": "$1,000.00",
-        "contactLink": "Abel.Herrero@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Corpus Christi Police Officers' Assn. PAC Fund : $1,000.00\nCombined Law Enforcement Assns. Of Texas PAC : $250.00"
-    },
-    {
-        "policeDeptPac": "San Angelo Police Officer's Political Action Committee",
-        "electedOfficialName": "Nick Hanna",
-        "officeRanForOrDescription": "Tom Green County Sherrif",
-        "districtOrJurisdiction": "Sherrif",
-        "totalContribution": "$4,000.00",
-        "contactLink": "hannajnick@gmail.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "San Angelo Police Officer's Political Action Committee : $4,000.00"
-    },
-    {
-        "policeDeptPac": "La Porte Police Officers Association Political Action Committee",
-        "electedOfficialName": "Phil Sandlin",
-        "officeRanForOrDescription": "Harris County Constable",
-        "districtOrJurisdiction": "Pct. 8",
-        "totalContribution": "$500.00",
-        "contactLink": "p.sandlin@hotmail.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "La Porte Police Officers Association Political Action Committee : $500.00"
-    },
-    {
-        "policeDeptPac": "Abilene Police Officer's Association Political Action Committee",
-        "electedOfficialName": "Cory Clements",
-        "officeRanForOrDescription": "Abilene City Council",
-        "districtOrJurisdiction": "Place 5",
-        "totalContribution": "$1,000.00",
-        "contactLink": "clementscampaign@gmail.com",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Abilene Police Officer's Association Political Action Committee : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Retired Officers Association - P.A.C.",
-        "electedOfficialName": "Mike Knox",
-        "officeRanForOrDescription": "Houston City Council",
-        "districtOrJurisdiction": "At-Large",
-        "totalContribution": "$2,500.00",
-        "contactLink": "atlarge1@houstontx.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Retired Officers Association - P.A.C. : $2,500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Retired Officers Association - P.A.C.",
-        "electedOfficialName": "Garnet Coleman ",
-        "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "147",
-        "totalContribution": "$500.00",
-        "contactLink": "garnet.coleman@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Houston Police Retired Officers Association - P.A.C. : $500.00"
-    },
-    {
-        "policeDeptPac": "Houston Police Retired Officers Association - P.A.C.",
-        "electedOfficialName": "Mike Laster ",
-        "officeRanForOrDescription": "Houston City Council",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 500.00,
+            "Houston Police Officers Union PAC": 2000.00
+        },
+        "electedOfficialName": "Edward Pollard",
+        "contactLink": "districtj@houstontx.gov",
         "districtOrJurisdiction": "J",
-        "totalContribution": "$250.00",
-        "contactLink": "",
-        "extra": "Couldn't run again - term limits",
         "alternateContact": "",
-        "contributionSummary": "Houston Police Retired Officers Association - P.A.C. : $250.00\nMontgomery County Law Enforcement Association : $1,500.00"
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 2500.00
     },
     {
-        "policeDeptPac": "Montgomery County Law Enforcement Association",
-        "electedOfficialName": "Rand Henderson",
-        "officeRanForOrDescription": "Montgomery County Sheriff",
-        "districtOrJurisdiction": "Montgomery County ",
-        "totalContribution": "$2,500.00",
+        "fullPosition": "Bexar County Constable",
+        "extra": "currently running, 70k in overtime salary!!",
+        "contributionSummary": {
+            "San Antonio Police Officers Assn. PAC": 300.00
+        },
+        "electedOfficialName": "Ino Badillo",
         "contactLink": "",
-        "extra": "",
+        "districtOrJurisdiction": "Pct. 2",
+        "alternateContact": "https://www.voteino.com/get-involved",
+        "officeRanForOrDescription": "Bexar County Constable",
+        "totalContribution": 300.00
+    },
+    {
+        "fullPosition": "United States House  ",
+        "extra": "He lost",
+        "contributionSummary": {
+            "Pearland Police Officers Association PAC": 1000.00
+        },
+        "electedOfficialName": "Greg Hill",
+        "contactLink": "info@electgreghill.com",
+        "districtOrJurisdiction": "22",
         "alternateContact": "",
-        "contributionSummary": "Montgomery County Law Enforcement Association : $2,500.00"
+        "officeRanForOrDescription": "United States House  ",
+        "totalContribution": 1000.00
     },
     {
-        "policeDeptPac": "Montgomery County Law Enforcement Association",
-        "electedOfficialName": "Phil Grant",
-        "officeRanForOrDescription": "Texas District Court",
-        "districtOrJurisdiction": "9",
-        "totalContribution": "$1,000.00",
-        "contactLink": "",
+        "fullPosition": "Travis County District Attorney",
+        "extra": "Lost",
+        "contributionSummary": {
+            "Travis County Sheriff's Law Enforcement Association PAC": 4000.00,
+            "Austin Police Association PAC": 11000.00
+        },
+        "electedOfficialName": "Margaret Moore",
+        "contactLink": "MargaretForDA@gmail.com",
+        "districtOrJurisdiction": "Travis County",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Travis County District Attorney",
+        "totalContribution": 15000.00
+    },
+    {
+        "fullPosition": "Montgomery County Constable",
         "extra": "",
-        "alternateContact": "936-539-7866",
-        "contributionSummary": "Montgomery County Law Enforcement Association : $1,000.00"
-    },
-    {
-        "policeDeptPac": "Montgomery County Law Enforcement Association",
-        "electedOfficialName": "James Noack",
-        "officeRanForOrDescription": "Montgomery County Commisioner",
-        "districtOrJurisdiction": "Pct. 3",
-        "totalContribution": "$500.00",
-        "contactLink": "Evan.Besong@mctx.org",
-        "extra": "",
-        "alternateContact": "http://www.precinct3.org/contact-us/",
-        "contributionSummary": "Montgomery County Law Enforcement Association : $500.00"
-    },
-    {
-        "policeDeptPac": "Montgomery County Law Enforcement Association",
+        "contributionSummary": {
+            "Montgomery County Law Enforcement Association": 500.00
+        },
         "electedOfficialName": "Philip Cash",
-        "officeRanForOrDescription": "Montgomery County Constable",
-        "districtOrJurisdiction": "Pct. 1",
-        "totalContribution": "$500.00",
         "contactLink": "cashforconstable@yahoo.com",
-        "extra": "",
+        "districtOrJurisdiction": "Pct. 1",
         "alternateContact": "",
-        "contributionSummary": "Montgomery County Law Enforcement Association : $500.00"
-    },
-    {
-        "policeDeptPac": "Montgomery County Law Enforcement Association",
-        "electedOfficialName": "Chris Jones",
         "officeRanForOrDescription": "Montgomery County Constable",
-        "districtOrJurisdiction": "Pct. 5",
-        "totalContribution": "$250.00",
-        "contactLink": "chris.jones@mctx.org",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "Montgomery County Law Enforcement Association : $250.00"
+        "totalContribution": 500.00
     },
     {
-        "policeDeptPac": "Combined Law Enforcement Assns. Of Texas PAC",
-        "electedOfficialName": "Phil King ",
+        "fullPosition": "Travis County Sheriff",
+        "extra": "",
+        "contributionSummary": {
+            "Travis County Sheriff's Law Enforcement Association PAC": 2500.00
+        },
+        "electedOfficialName": "Sally Hernandez ",
+        "contactLink": "sally.hernandez@traviscountytx.gov",
+        "districtOrJurisdiction": "Travis County",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Travis County Sheriff",
+        "totalContribution": 2500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 147",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 500.00
+        },
+        "electedOfficialName": "Garnet Coleman ",
+        "contactLink": "garnet.coleman@house.texas.gov",
+        "districtOrJurisdiction": "147",
+        "alternateContact": "",
         "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "61",
-        "totalContribution": "$1,000.00",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Houston City Council Place At-Large",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 1000.00,
+            "Houston Police Officers Union PAC": 7500.00
+        },
+        "electedOfficialName": "David W Robinson",
+        "contactLink": "atlarge2@houstontx.gov",
+        "districtOrJurisdiction": "At-Large",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 8500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 133",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 1500.00
+        },
+        "electedOfficialName": "Jim Murphy",
+        "contactLink": "Jim.Murphy@house.mo.gov",
+        "districtOrJurisdiction": "133",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "US Senate District Texas",
+        "extra": "Lost, was Houston City Council before",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 2500.00
+        },
+        "electedOfficialName": "Amanda Edwards",
         "contactLink": "",
+        "districtOrJurisdiction": "Texas",
+        "alternateContact": "",
+        "officeRanForOrDescription": "US Senate",
+        "totalContribution": 2500.00
+    },
+    {
+        "fullPosition": "Texas Attorney General",
         "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 7500.00,
+            "Dallas Police Officer's PAC": 1000.00
+        },
+        "electedOfficialName": "Ken Paxton",
+        "contactLink": "info@kenpaxton.com",
+        "districtOrJurisdiction": "Texas",
         "alternateContact": "",
-        "contributionSummary": "Combined Law Enforcement Assns. Of Texas PAC : $1,000.00"
+        "officeRanForOrDescription": "Texas Attorney General",
+        "totalContribution": 8500.00
     },
     {
-        "policeDeptPac": "Combined Law Enforcement Assns. Of Texas PAC",
-        "electedOfficialName": "Kel Seliger ",
-        "officeRanForOrDescription": "Texas State Senate",
-        "districtOrJurisdiction": "31",
-        "totalContribution": "$500.00",
-        "contactLink": "kel.seliger@senate.texas.gov",
+        "fullPosition": "Texas House of Representatives District 132",
         "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 1000.00
+        },
+        "electedOfficialName": "Gina Calanni ",
+        "contactLink": "gina.calanni@house.texas.gov",
+        "districtOrJurisdiction": "132",
         "alternateContact": "",
-        "contributionSummary": "Combined Law Enforcement Assns. Of Texas PAC : $500.00"
-    },
-    {
-        "policeDeptPac": "El Paso Municipal Police Officers' Association PAC",
-        "electedOfficialName": "Jeremy Jordan",
-        "officeRanForOrDescription": "Executive Director of Policy at YMCA",
-        "districtOrJurisdiction": "",
-        "totalContribution": "$57,512.50",
-        "contactLink": "info@txsdy.org",
-        "extra": "These are classified as \"consulting\" services, and he assaulted his wife in 2016",
-        "alternateContact": "",
-        "contributionSummary": "El Paso Municipal Police Officers' Association PAC : $57,512.50"
-    },
-    {
-        "policeDeptPac": "El Paso Municipal Police Officers' Association PAC",
-        "electedOfficialName": "Cassandra Hernandez-Brown ",
-        "officeRanForOrDescription": "El Paso City Council",
-        "districtOrJurisdiction": "3",
-        "totalContribution": "$10,000.00",
-        "contactLink": "district3@elpasotexas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "El Paso Municipal Police Officers' Association PAC : $10,000.00"
-    },
-    {
-        "policeDeptPac": "El Paso Municipal Police Officers' Association PAC",
-        "electedOfficialName": "Art Fierro ",
         "officeRanForOrDescription": "Texas House of Representatives",
-        "districtOrJurisdiction": "79",
-        "totalContribution": "$5,000.00",
-        "contactLink": "Art.Fierro@house.texas.gov",
-        "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "El Paso Municipal Police Officers' Association PAC : $5,000.00"
+        "totalContribution": 1000.00
     },
     {
-        "policeDeptPac": "El Paso Municipal Police Officers' Association PAC",
+        "fullPosition": "Mayor of Houston",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 2000.00,
+            "Houston Police Officers Union PAC": 10000.00
+        },
+        "electedOfficialName": "Sylvester Turner",
+        "contactLink": "sylvester.turner@houstontx.gov",
+        "districtOrJurisdiction": "Houston",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Mayor of Houston",
+        "totalContribution": 12000.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 130",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 1500.00
+        },
+        "electedOfficialName": "Tom Oliverson",
+        "contactLink": "tom.oliverson@house.texas.gov",
+        "districtOrJurisdiction": "130",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Texas District Court",
+        "extra": "",
+        "contributionSummary": {
+            "Travis County Sheriff's Law Enforcement Association PAC": 1000.00,
+            "Austin Police Association PAC": 500.00
+        },
+        "electedOfficialName": "Maggie Ellis ",
+        "contactLink": "MAGGIEFORJUDGE@gmail.com",
+        "districtOrJurisdiction": "200",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas District Court",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Abilene City Council Place Place 5",
+        "extra": "",
+        "contributionSummary": {
+            "Abilene Police Officer's Association Political Action Committee": 1000.00
+        },
+        "electedOfficialName": "Cory Clements",
+        "contactLink": "clementscampaign@gmail.com",
+        "districtOrJurisdiction": "Place 5",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Abilene City Council",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Harris County Constable",
+        "extra": "",
+        "contributionSummary": {
+            "La Porte Police Officers Association Political Action Committee": 500.00
+        },
+        "electedOfficialName": "Phil Sandlin",
+        "contactLink": "p.sandlin@hotmail.com",
+        "districtOrJurisdiction": "Pct. 8",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Harris County Constable",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Houston City Council Place At-Large",
+        "extra": "Lost",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 250.00,
+            "Houston Police Officers Union PAC": 1000.00
+        },
+        "electedOfficialName": "Anthony Dolcefino",
+        "contactLink": "anthony@dolcefinoforhouston.com",
+        "districtOrJurisdiction": "At-Large",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 1250.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 38",
+        "extra": "",
+        "contributionSummary": {
+            "Texas Municipal Police Assn. PAC": 500.00
+        },
+        "electedOfficialName": "Eddie Lucio  III",
+        "contactLink": "eddie.lucio_iii@house.texas.gov .",
+        "districtOrJurisdiction": "38",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Lt. Governor",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 1000.00,
+            "Houston Police Officers Union PAC": 5000.00,
+            "Dallas Police Officer's PAC": 1000.00
+        },
+        "electedOfficialName": "Dan Patrick",
+        "contactLink": "info@danpatrick.org",
+        "districtOrJurisdiction": "Texas",
+        "alternateContact": "https://www.ltgov.state.tx.us/contact/contact-general/",
+        "officeRanForOrDescription": "Lt. Governor",
+        "totalContribution": 7000.00
+    },
+    {
+        "fullPosition": "Montgomery County Commisioner",
+        "extra": "",
+        "contributionSummary": {
+            "Montgomery County Law Enforcement Association": 500.00
+        },
+        "electedOfficialName": "James Noack",
+        "contactLink": "Evan.Besong@mctx.org",
+        "districtOrJurisdiction": "Pct. 3",
+        "alternateContact": "http://www.precinct3.org/contact-us/",
+        "officeRanForOrDescription": "Montgomery County Commisioner",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Houston City Council Place D",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 2000.00
+        },
+        "electedOfficialName": "Carolyn Evans-Shabazz",
+        "contactLink": "districtd@houstontx.gov",
+        "districtOrJurisdiction": "D",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 2000.00
+    },
+    {
+        "fullPosition": "El Paso City Council Place 6",
+        "extra": "Lost",
+        "contributionSummary": {
+            "El Paso Municipal Police Officers' Association PAC": 3000.00
+        },
         "electedOfficialName": "Arnulfo Hernadez ",
-        "officeRanForOrDescription": "El Paso City Council",
-        "districtOrJurisdiction": "6",
-        "totalContribution": "$3,000.00",
         "contactLink": "",
-        "extra": "Lost",
+        "districtOrJurisdiction": "6",
         "alternateContact": "",
-        "contributionSummary": "El Paso Municipal Police Officers' Association PAC : $3,000.00"
+        "officeRanForOrDescription": "El Paso City Council",
+        "totalContribution": 3000.00
     },
     {
-        "policeDeptPac": "El Paso Municipal Police Officers' Association PAC",
-        "electedOfficialName": "Carlos Leon ",
-        "officeRanForOrDescription": "El Paso City Commissioner",
-        "districtOrJurisdiction": "El Paso",
-        "totalContribution": "$2,500.00",
-        "contactLink": "Commissioner1@epcounty.com",
+        "fullPosition": "Houston Controller",
         "extra": "",
-        "alternateContact": "",
-        "contributionSummary": "El Paso Municipal Police Officers' Association PAC : $2,500.00"
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 2500.00
+        },
+        "electedOfficialName": "Chris Brown",
+        "contactLink": "",
+        "districtOrJurisdiction": "Houston",
+        "alternateContact": "https://www.houstontx.gov/controller/contact-search.html",
+        "officeRanForOrDescription": "Houston Controller",
+        "totalContribution": 2500.00
     },
     {
-        "policeDeptPac": "El Paso Municipal Police Officers' Association PAC",
+        "fullPosition": "Mayor of Brownsville",
+        "extra": "Lost, still City Manager",
+        "contributionSummary": {
+            "Brownsville Police Officers Association PAC": 2000.00
+        },
+        "electedOfficialName": "Charlie Cabler",
+        "contactLink": "",
+        "districtOrJurisdiction": "Brownsville",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Mayor of Brownsville",
+        "totalContribution": 2000.00
+    },
+    {
+        "fullPosition": "Texas District Court",
+        "extra": "",
+        "contributionSummary": {
+            "Travis County Sheriff's Law Enforcement Association PAC": 600.00
+        },
+        "electedOfficialName": "Tamara Needles ",
+        "contactLink": "TAMARA@needlesforjudge.com",
+        "districtOrJurisdiction": "427",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas District Court",
+        "totalContribution": 1600.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 72",
+        "extra": "",
+        "contributionSummary": {
+            "Texas Municipal Police Assn. PAC": 500.00
+        },
+        "electedOfficialName": "Drew Darby ",
+        "contactLink": "drew.darby@house.texas.gov",
+        "districtOrJurisdiction": "72",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Brownsville City Commissioner",
+        "extra": "Lost",
+        "contributionSummary": {
+            "Brownsville Police Officers Association PAC": 1000.00
+        },
+        "electedOfficialName": "Ricardo Longoria Jr ",
+        "contactLink": "",
+        "districtOrJurisdiction": "1",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Brownsville City Commissioner",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 146",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 500.00,
+            "Houston Police Officers Union PAC": 1500.00
+        },
+        "electedOfficialName": "Shawn Thierry",
+        "contactLink": "shawn.thierry@house.texas.gov",
+        "districtOrJurisdiction": "146",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 2000.00
+    },
+    {
+        "fullPosition": "Texas State Senate District 12",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 1000.00
+        },
+        "electedOfficialName": "Jane Nelson ",
+        "contactLink": "jane.nelson@senate.texas.gov",
+        "districtOrJurisdiction": "12",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas State Senate",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Harris County Sheriff",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 2500.00
+        },
+        "electedOfficialName": "Ed Gonzalez ",
+        "contactLink": "Sheriff.Gonzalez@sheriff.hctx.net",
+        "districtOrJurisdiction": "Harris County",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Harris County Sheriff",
+        "totalContribution": 2500.00
+    },
+    {
+        "fullPosition": "Dallas City Council Place 10",
+        "extra": "",
+        "contributionSummary": {
+            "Dallas Police Officer's PAC": 1000.00
+        },
+        "electedOfficialName": "Adam B Gough",
+        "contactLink": "adam.mcgough@dallascityhall.com",
+        "districtOrJurisdiction": "10",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Dallas City Council",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Texas State Senate District 17",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 10000.00
+        },
+        "electedOfficialName": "Joan Huffman",
+        "contactLink": "Joan.Huffman@senate.texas.gov",
+        "districtOrJurisdiction": "17",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas State Senate",
+        "totalContribution": 10000.00
+    },
+    {
+        "fullPosition": "Mesquite City Council Place 1",
+        "extra": "",
+        "contributionSummary": {
+            "Mesquite Police Association PAC": 446.60
+        },
+        "electedOfficialName": "Sherry Wisdom",
+        "contactLink": "district1@cityofmesquite.com",
+        "districtOrJurisdiction": "1",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Mesquite City Council",
+        "totalContribution": 446.60
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 61",
+        "extra": "",
+        "contributionSummary": {
+            "Combined Law Enforcement Assns. Of Texas PAC": 1000.00
+        },
+        "electedOfficialName": "Phil King ",
+        "contactLink": "",
+        "districtOrJurisdiction": "61",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "District Court Judge",
+        "extra": "",
+        "contributionSummary": {
+            "San Antonio Police Officers Assn. PAC": 500.00
+        },
+        "electedOfficialName": "Angeliza Jimenez ",
+        "contactLink": "",
+        "districtOrJurisdiction": "408 DC",
+        "alternateContact": "",
+        "officeRanForOrDescription": "District Court Judge",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 103",
+        "extra": "",
+        "contributionSummary": {
+            "Dallas Police Officer's PAC": 500.00
+        },
+        "electedOfficialName": "Rafael Anchia",
+        "contactLink": "rafael.anchia@house.texas.gov",
+        "districtOrJurisdiction": "103",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "El Paso County District Attorney",
+        "extra": "Lost",
+        "contributionSummary": {
+            "El Paso Municipal Police Officers' Association PAC": 2500.00
+        },
         "electedOfficialName": "Karen Dykes ",
-        "officeRanForOrDescription": "El Paso County District Attorney",
-        "districtOrJurisdiction": "El Paso",
-        "totalContribution": "$2,500.00",
         "contactLink": "kydlawyer@gmail.com",
-        "extra": "Lost",
+        "districtOrJurisdiction": "El Paso",
         "alternateContact": "",
-        "contributionSummary": "El Paso Municipal Police Officers' Association PAC : $2,500.00"
+        "officeRanForOrDescription": "El Paso County District Attorney",
+        "totalContribution": 2500.00
     },
     {
-        "policeDeptPac": "El Paso Municipal Police Officers' Association PAC",
-        "electedOfficialName": "Paty Baca ",
-        "officeRanForOrDescription": "Texas District Court",
-        "districtOrJurisdiction": "346",
-        "totalContribution": "$2,000.00",
-        "contactLink": "patybacacampaign@gmail.com",
-        "extra": "Election in Nov",
-        "alternateContact": "https://patybacaforjudge.com/#contact",
-        "contributionSummary": "El Paso Municipal Police Officers' Association PAC : $2,000.00"
-    },
-    {
-        "policeDeptPac": "El Paso Municipal Police Officers' Association PAC",
-        "electedOfficialName": "Angie Juarez Barill ",
-        "officeRanForOrDescription": "Texas District Court",
-        "districtOrJurisdiction": "346",
-        "totalContribution": "$1,500.00",
-        "contactLink": "sserna@epcounty.com",
+        "fullPosition": "Travis County Constable",
         "extra": "",
+        "contributionSummary": {
+            "Travis County Sheriff's Law Enforcement Association PAC": 500.00
+        },
+        "electedOfficialName": "George Morales ",
+        "contactLink": "GEORGE.MORALEIII@GMAIL.COM",
+        "districtOrJurisdiction": "Pct. 4",
         "alternateContact": "",
-        "contributionSummary": "El Paso Municipal Police Officers' Association PAC : $1,500.00"
+        "officeRanForOrDescription": "Travis County Constable",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 116",
+        "extra": "",
+        "contributionSummary": {
+            "San Antonio Police Officers Assn. PAC": 1500.00
+        },
+        "electedOfficialName": "Trey Martinez Fischer ",
+        "contactLink": "Trey.MartinezFischer@house.texas.gov",
+        "districtOrJurisdiction": "116",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Texas District Court",
+        "extra": "",
+        "contributionSummary": {
+            "El Paso Municipal Police Officers' Association PAC": 1500.00
+        },
+        "electedOfficialName": "Angie Juarez Barill ",
+        "contactLink": "sserna@epcounty.com",
+        "districtOrJurisdiction": "346",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas District Court",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 108",
+        "extra": "",
+        "contributionSummary": {
+            "Dallas Police Officer's PAC": 1000.00
+        },
+        "electedOfficialName": "Morgan Meyer",
+        "contactLink": "",
+        "districtOrJurisdiction": "108",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Texas State Senate District 26",
+        "extra": "",
+        "contributionSummary": {
+            "San Antonio Police Officers Assn. PAC": 1500.00
+        },
+        "electedOfficialName": "Jose Menendez ",
+        "contactLink": "jose.menendez@senate.texas.gov",
+        "districtOrJurisdiction": "26",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas State Senate",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 135",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 500.00,
+            "Houston Police Officers Union PAC": 500.00
+        },
+        "electedOfficialName": "Jon Rosenthal ",
+        "contactLink": "jon.rosenthal@house.texas.gov",
+        "districtOrJurisdiction": "135",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Houston City Council Place At-Large",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 1000.00
+        },
+        "electedOfficialName": "Letitia Plummer ",
+        "contactLink": "atlarge4@houstontx.gov",
+        "districtOrJurisdiction": "At-Large",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Travis County Commissioners Court",
+        "extra": "",
+        "contributionSummary": {
+            "Travis County Sheriff's Law Enforcement Association PAC": 5000.00
+        },
+        "electedOfficialName": "Ann Howard",
+        "contactLink": "AnnForCommissioner@Gmail.com",
+        "districtOrJurisdiction": "3",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Travis County Commissioners Court",
+        "totalContribution": 5000.00
+    },
+    {
+        "fullPosition": "Houston City Council Place J",
+        "extra": "Couldn't run again - term limits",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 250.00,
+            "Montgomery County Law Enforcement Association": 1500.00
+        },
+        "electedOfficialName": "Mike Laster ",
+        "contactLink": "",
+        "districtOrJurisdiction": "J",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 1750.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 59",
+        "extra": "",
+        "contributionSummary": {
+            "Texas Municipal Police Assn. PAC": 500.00
+        },
+        "electedOfficialName": "J D Sheffield ",
+        "contactLink": "j.d.sheffield@house.texas.gov",
+        "districtOrJurisdiction": "59",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 30",
+        "extra": "",
+        "contributionSummary": {
+            "Texas Municipal Police Assn. PAC": 500.00
+        },
+        "electedOfficialName": "Geanie Morrison ",
+        "contactLink": "Geanie.Morrison@house.texas.gov",
+        "districtOrJurisdiction": "30",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Arlington City Council Place 3",
+        "extra": "",
+        "contributionSummary": {
+            "Arlington Police Assn. PAC": 2000.00
+        },
+        "electedOfficialName": "Roxanne Thalman",
+        "contactLink": "roxanne@roxannethalman.com",
+        "districtOrJurisdiction": "3",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Arlington City Council",
+        "totalContribution": 2000.00
+    },
+    {
+        "fullPosition": "San Antonio City Council Place 2",
+        "extra": "",
+        "contributionSummary": {
+            "San Antonio Fire & Police Pensioners Association - PAC": 500.00
+        },
+        "electedOfficialName": "Jada Andrews-Sullivan",
+        "contactLink": "district2@sanantonio.gov",
+        "districtOrJurisdiction": "2",
+        "alternateContact": "https://www.sanantonio.gov/Council/d2/Contact?sendto=District2",
+        "officeRanForOrDescription": "San Antonio City Council",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Harris County Attorney",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 1000.00
+        },
+        "electedOfficialName": "Vince Ryan ",
+        "contactLink": "robert.soard@cao.hctx.net",
+        "districtOrJurisdiction": "Harris County",
+        "alternateContact": "https://www.harriscountycao.org/contact-us",
+        "officeRanForOrDescription": "Harris County Attorney",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Texas District Court",
+        "extra": "",
+        "contributionSummary": {
+            "Montgomery County Law Enforcement Association": 1000.00
+        },
+        "electedOfficialName": "Phil Grant",
+        "contactLink": "",
+        "districtOrJurisdiction": "9",
+        "alternateContact": "936-539-7866",
+        "officeRanForOrDescription": "Texas District Court",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Houston City Council Place At-Large",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 250.00,
+            "Houston Police Officers Union PAC": 1000.00
+        },
+        "electedOfficialName": "Leticia Plummer ",
+        "contactLink": "atlarge4@houstontx.gov",
+        "districtOrJurisdiction": "At-Large",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 1250.00
+    },
+    {
+        "fullPosition": "San Antonio City Council Place 10",
+        "extra": "",
+        "contributionSummary": {
+            "San Antonio Police Officers Assn. PAC": 500.00
+        },
+        "electedOfficialName": "Clayton Perry",
+        "contactLink": "",
+        "districtOrJurisdiction": "10",
+        "alternateContact": "https://www.sanantonio.gov/Council/d10/Contact?sendto=District10",
+        "officeRanForOrDescription": "San Antonio City Council",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Dallas City Council Place 6",
+        "extra": "",
+        "contributionSummary": {
+            "Dallas Police Officer's PAC": 250.00
+        },
+        "electedOfficialName": "Omar Narvaez",
+        "contactLink": "Laura.Cadena@dallascityhall.com",
+        "districtOrJurisdiction": "6",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Dallas City Council",
+        "totalContribution": 250.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 119",
+        "extra": "Election in Nov",
+        "contributionSummary": {
+            "San Antonio Fire & Police Pensioners Association - PAC": 1500.00
+        },
+        "electedOfficialName": "Elizabeth Campos",
+        "contactLink": "liz@lizcampos.com",
+        "districtOrJurisdiction": "119",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Houston City Council Place J",
+        "extra": "Lost",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 250.00,
+            "Houston Police Officers Union PAC": 5000.00
+        },
+        "electedOfficialName": "Barry Curtis",
+        "contactLink": "",
+        "districtOrJurisdiction": "J",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 5250.00
+    },
+    {
+        "fullPosition": "Texas State Senate District 8",
+        "extra": "",
+        "contributionSummary": {
+            "Dallas Police Officer's PAC": 1000.00,
+            "Combined Law Enforcement Assns. Of Texas PAC": 500.00
+        },
+        "electedOfficialName": "Angela Paxton",
+        "contactLink": "angela.paxton@senate.texas.gov",
+        "districtOrJurisdiction": "8",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas State Senate",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Dallas City Council Place 4",
+        "extra": "",
+        "contributionSummary": {
+            "Dallas Police Officer's PAC": 500.00
+        },
+        "electedOfficialName": "Carolyn King Arnold",
+        "contactLink": "District4@DallasCityHall.com",
+        "districtOrJurisdiction": "4",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Dallas City Council",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 139",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 1500.00
+        },
+        "electedOfficialName": "Jarvis Johnson",
+        "contactLink": "jarvis.johnson@house.texas.gov",
+        "districtOrJurisdiction": "139",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Harris County Constable",
+        "extra": "Election in Nov",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 600.00
+        },
+        "electedOfficialName": "Alan Rosen ",
+        "contactLink": "community@cn1.hctx.net",
+        "districtOrJurisdiction": "Pct. 1",
+        "alternateContact": "(713) 755-5200",
+        "officeRanForOrDescription": "Harris County Constable",
+        "totalContribution": 600.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 118",
+        "extra": "",
+        "contributionSummary": {
+            "San Antonio Police Officers Assn. PAC": 1500.00
+        },
+        "electedOfficialName": "Leo Pacheco",
+        "contactLink": "leo.pacheco@house.texas.gov",
+        "districtOrJurisdiction": "118",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Texas District Court",
+        "extra": "Lost",
+        "contributionSummary": {
+            "Travis County Sheriff's Law Enforcement Association PAC": 750.00
+        },
+        "electedOfficialName": "Amy Meredith ",
+        "contactLink": "amymeredithforjudge@gmail.com",
+        "districtOrJurisdiction": "460",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas District Court",
+        "totalContribution": 1750.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 51",
+        "extra": "",
+        "contributionSummary": {
+            "Austin Police Association PAC": 1000.00
+        },
+        "electedOfficialName": "Eddie Rodriguez ",
+        "contactLink": "Eddie.Rodriguez@house.texas.gov",
+        "districtOrJurisdiction": "51",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Mayor of Mesquite ",
+        "extra": "",
+        "contributionSummary": {
+            "Mesquite Police Association PAC": 1000.00
+        },
+        "electedOfficialName": "Bruce Archer",
+        "contactLink": "mayor@cityofmesquite.com",
+        "districtOrJurisdiction": "",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Mayor of Mesquite ",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 119",
+        "extra": "Lost",
+        "contributionSummary": {
+            "San Antonio Police Officers Assn. PAC": 1000.00
+        },
+        "electedOfficialName": "Jennifer Ramos",
+        "contactLink": "jennramoscampaign@gmail.com",
+        "districtOrJurisdiction": "119",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "",
+        "extra": "Austin Police Association Executive Director",
+        "contributionSummary": {
+            "Austin Police Association PAC": 2600.00
+        },
+        "electedOfficialName": "Valencia Escobar",
+        "contactLink": "",
+        "districtOrJurisdiction": "",
+        "alternateContact": "https://www.apapac.com/",
+        "officeRanForOrDescription": "",
+        "totalContribution": 2600.00
+    },
+    {
+        "fullPosition": "Harris County District Attorney",
+        "extra": "Lost, legal team at houston's police officer union",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 500.00,
+            "Houston Police Officers Union PAC": 10000.00
+        },
+        "electedOfficialName": "Mary Nan Huffman",
+        "contactLink": "campaign@marynanhuffman.com",
+        "districtOrJurisdiction": "Harris County",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Harris County District Attorney",
+        "totalContribution": 10500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 127",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 1500.00,
+            "Texas Municipal Police Assn. PAC": 500.00
+        },
+        "electedOfficialName": "Dan Huberty",
+        "contactLink": "dan.huberty@house.texas.gov",
+        "districtOrJurisdiction": "127",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 2000.00
+    },
+    {
+        "fullPosition": "Arlington City Council Place 8",
+        "extra": "",
+        "contributionSummary": {
+            "Arlington Police Assn. PAC": 2000.00
+        },
+        "electedOfficialName": "Barbara Odom Wesley",
+        "contactLink": "Barbara.Odom-Wesley@arlingtontx.gov",
+        "districtOrJurisdiction": "8",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Arlington City Council",
+        "totalContribution": 2000.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 34",
+        "extra": "",
+        "contributionSummary": {
+            "Corpus Christi Police Officers' Assn. PAC Fund": 1000.00,
+            "Combined Law Enforcement Assns. Of Texas PAC": 250.00
+        },
+        "electedOfficialName": "Abel Herrero",
+        "contactLink": "Abel.Herrero@house.texas.gov",
+        "districtOrJurisdiction": "34",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1250.00
+    },
+    {
+        "fullPosition": "El Paso City Commissioner",
+        "extra": "",
+        "contributionSummary": {
+            "El Paso Municipal Police Officers' Association PAC": 2500.00
+        },
+        "electedOfficialName": "Carlos Leon ",
+        "contactLink": "Commissioner1@epcounty.com",
+        "districtOrJurisdiction": "El Paso",
+        "alternateContact": "",
+        "officeRanForOrDescription": "El Paso City Commissioner",
+        "totalContribution": 2500.00
+    },
+    {
+        "fullPosition": "Dallas City Council Place 8",
+        "extra": "",
+        "contributionSummary": {
+            "Dallas Police Officer's PAC": 750.00
+        },
+        "electedOfficialName": "Tennel Atkins",
+        "contactLink": "maria.salazar2@dallascityhall.com",
+        "districtOrJurisdiction": "8",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Dallas City Council",
+        "totalContribution": 750.00
+    },
+    {
+        "fullPosition": "Texas State Senate District 6",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 5000.00
+        },
+        "electedOfficialName": "Carol Alvarado",
+        "contactLink": "carol.alvarado@house.texas.gov",
+        "districtOrJurisdiction": "6",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas State Senate",
+        "totalContribution": 5000.00
+    },
+    {
+        "fullPosition": "Dallas City Council Place 13",
+        "extra": "",
+        "contributionSummary": {
+            "Dallas Police Officer's PAC": 500.00
+        },
+        "electedOfficialName": "Jennifer Gates",
+        "contactLink": "jennifer.gates@dallascityhall.com",
+        "districtOrJurisdiction": "13",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Dallas City Council",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Kaufman County Sheriff",
+        "extra": "Lost",
+        "contributionSummary": {
+            "Dallas Police Officer's PAC": 1000.00
+        },
+        "electedOfficialName": "Clint McNear",
+        "contactLink": "clint@mcnearforsheriff.com",
+        "districtOrJurisdiction": "Kaufman County",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Kaufman County Sheriff",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Brownsville City Commissioner",
+        "extra": "",
+        "contributionSummary": {
+            "Brownsville Police Officers Association PAC": 1000.00
+        },
+        "electedOfficialName": "Jessica Tetreau Kalifa",
+        "contactLink": "jtetreau@cob.us",
+        "districtOrJurisdiction": "2",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Brownsville City Commissioner",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Houston City Council Place K",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 7500.00
+        },
+        "electedOfficialName": "Martha Castex-Tatum ",
+        "contactLink": "districtk@houstontx.gov",
+        "districtOrJurisdiction": "K",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 7500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 36",
+        "extra": "",
+        "contributionSummary": {
+            "Texas Municipal Police Assn. PAC": 500.00
+        },
+        "electedOfficialName": "Sergio Munoz Jr ",
+        "contactLink": "Sergio.Munoz@house.texas.gov",
+        "districtOrJurisdiction": "36",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "El Paso City Council Place 3",
+        "extra": "",
+        "contributionSummary": {
+            "El Paso Municipal Police Officers' Association PAC": 10000.00
+        },
+        "electedOfficialName": "Cassandra Hernandez-Brown ",
+        "contactLink": "district3@elpasotexas.gov",
+        "districtOrJurisdiction": "3",
+        "alternateContact": "",
+        "officeRanForOrDescription": "El Paso City Council",
+        "totalContribution": 10000.00
+    },
+    {
+        "fullPosition": "Houston City Council Place F",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 1000.00
+        },
+        "electedOfficialName": "Tiffany Thomas ",
+        "contactLink": "districtf@houstontx.gov",
+        "districtOrJurisdiction": "F",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Houston City Council Place A",
+        "extra": "Lost",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 5000.00
+        },
+        "electedOfficialName": "Brenda Stardig ",
+        "contactLink": "districta@houstontx.gov",
+        "districtOrJurisdiction": "A",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 5000.00
+    },
+    {
+        "fullPosition": "Texas Third District Court of Appeals",
+        "extra": "",
+        "contributionSummary": {
+            "Austin Police Association PAC": 500.00
+        },
+        "electedOfficialName": "Chari Kelly ",
+        "contactLink": "chari_kelly@yahoo.com",
+        "districtOrJurisdiction": "Place 3",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas Third District Court of Appeals",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "District Court Judge",
+        "extra": "",
+        "contributionSummary": {
+            "San Antonio Police Officers Assn. PAC": 500.00
+        },
+        "electedOfficialName": "Michael Mery",
+        "contactLink": "",
+        "districtOrJurisdiction": "37 DC",
+        "alternateContact": "210-335-2515",
+        "officeRanForOrDescription": "District Court Judge",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Harris County District Attorney",
+        "extra": "Lost, but an attorney",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 2500.00
+        },
+        "electedOfficialName": "Todd Overstreet",
+        "contactLink": "",
+        "districtOrJurisdiction": "Harris County",
+        "alternateContact": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/MemberDirectory/MemberDirectoryEmail.cfm&ContactID=193520",
+        "officeRanForOrDescription": "Harris County District Attorney",
+        "totalContribution": 2500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 148",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 250.00,
+            "Houston Police Officers Union PAC": 1000.00
+        },
+        "electedOfficialName": "Anna Eastman",
+        "contactLink": "anna@voteannaeastman.com",
+        "districtOrJurisdiction": "148",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1250.00
+    },
+    {
+        "fullPosition": "Fort Bend County Sheriff ",
+        "extra": "Election in Nov",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 1000.00
+        },
+        "electedOfficialName": "Eric Fagan ",
+        "contactLink": "hello@ericfagan.com",
+        "districtOrJurisdiction": "Fort Bend",
+        "alternateContact": "https://www.ericfagan.com/contact",
+        "officeRanForOrDescription": "Fort Bend County Sheriff ",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 125",
+        "extra": "",
+        "contributionSummary": {
+            "Combined Law Enforcement Assns. Of Texas PAC": 1000.00,
+            "San Antonio Fire & Police Pensioners Association - PAC": 1000.00,
+            "San Antonio Police Officers Assn. PAC": 3000.00
+        },
+        "electedOfficialName": "Ray Lopez",
+        "contactLink": "ray.lopez@house.texas.gov",
+        "districtOrJurisdiction": "125",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 5000.00
+    },
+    {
+        "fullPosition": "San Antonio City Council Place 6",
+        "extra": "",
+        "contributionSummary": {
+            "San Antonio Fire & Police Pensioners Association - PAC": 500.00,
+            "San Antonio Police Officers Assn. PAC": 1000.00
+        },
+        "electedOfficialName": "Melissa Havrda",
+        "contactLink": "district6@sanantonio.gov",
+        "districtOrJurisdiction": "6",
+        "alternateContact": "https://www.sanantonio.gov/Council/d6/Contact?sendto=District6",
+        "officeRanForOrDescription": "San Antonio City Council",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 124",
+        "extra": "",
+        "contributionSummary": {
+            "San Antonio Fire & Police Pensioners Association - PAC": 1500.00
+        },
+        "electedOfficialName": "Ina Minjarez ",
+        "contactLink": "ina.minjarez@house.texas.gov",
+        "districtOrJurisdiction": "124",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 114",
+        "extra": "",
+        "contributionSummary": {
+            "Dallas Police Officer's PAC": 500.00
+        },
+        "electedOfficialName": "John W. Turner",
+        "contactLink": "john.turner@house.texas.gov",
+        "districtOrJurisdiction": "114",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 124",
+        "extra": "",
+        "contributionSummary": {
+            "San Antonio Police Officers Assn. PAC": 1500.00
+        },
+        "electedOfficialName": "Ina Minjares",
+        "contactLink": "ina.minjarez@house.texas.gov",
+        "districtOrJurisdiction": "124",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Plano City Council Place Place 5",
+        "extra": "",
+        "contributionSummary": {
+            "Plano Police Association PAC": 1500.00
+        },
+        "electedOfficialName": "Ron Kelly",
+        "contactLink": "ronkelley@plano.gov",
+        "districtOrJurisdiction": "Place 5",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Plano City Council",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Houston City Council Place I",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 500.00,
+            "Houston Police Officers Union PAC": 5000.00
+        },
+        "electedOfficialName": "Robert Gallegos",
+        "contactLink": "districti@houstontx.gov",
+        "districtOrJurisdiction": "I",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 5500.00
+    },
+    {
+        "fullPosition": "Montgomery County Constable",
+        "extra": "",
+        "contributionSummary": {
+            "Montgomery County Law Enforcement Association": 250.00
+        },
+        "electedOfficialName": "Chris Jones",
+        "contactLink": "chris.jones@mctx.org",
+        "districtOrJurisdiction": "Pct. 5",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Montgomery County Constable",
+        "totalContribution": 250.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 102",
+        "extra": "",
+        "contributionSummary": {
+            "Dallas Police Officer's PAC": 500.00
+        },
+        "electedOfficialName": "Linda Koop ",
+        "contactLink": "Linda@lindakoop.com",
+        "districtOrJurisdiction": "102",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 143",
+        "extra": "Election in Nov",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 1500.00
+        },
+        "electedOfficialName": "Ana Hernandez",
+        "contactLink": "anahernandezcampaign@gmail.com",
+        "districtOrJurisdiction": "143",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Executive Director of Policy at YMCA",
+        "extra": "These are classified as \"consulting\" services, and he assaulted his wife in 2016",
+        "contributionSummary": {
+            "El Paso Municipal Police Officers' Association PAC": 57512.50
+        },
+        "electedOfficialName": "Jeremy Jordan",
+        "contactLink": "info@txsdy.org",
+        "districtOrJurisdiction": "",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Executive Director of Policy at YMCA",
+        "totalContribution": 57512.50
+    },
+    {
+        "fullPosition": "Dallas City Council Place 12",
+        "extra": "",
+        "contributionSummary": {
+            "Dallas Police Officer's PAC": 1000.00
+        },
+        "electedOfficialName": "Cara Medelsohn",
+        "contactLink": "cara.mendelsohn@dallascityhall.com",
+        "districtOrJurisdiction": "12",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Dallas City Council",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Houston City Council Place At-Large",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 2500.00
+        },
+        "electedOfficialName": "Mike Knox",
+        "contactLink": "atlarge1@houstontx.gov",
+        "districtOrJurisdiction": "At-Large",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 2500.00
+    },
+    {
+        "fullPosition": "Houston City Council Place H",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 1200.00,
+            "Houston Police Officers Union PAC": 7500.00
+        },
+        "electedOfficialName": "Karla Cisneros ",
+        "contactLink": "districth@houstontx.gov",
+        "districtOrJurisdiction": "H",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 8700.00
+    },
+    {
+        "fullPosition": "Texas State Senate District 31",
+        "extra": "",
+        "contributionSummary": {
+            "Combined Law Enforcement Assns. Of Texas PAC": 500.00
+        },
+        "electedOfficialName": "Kel Seliger ",
+        "contactLink": "kel.seliger@senate.texas.gov",
+        "districtOrJurisdiction": "31",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas State Senate",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Brownsville City Commissioner",
+        "extra": "",
+        "contributionSummary": {
+            "Brownsville Police Officers Association PAC": 1000.00
+        },
+        "electedOfficialName": "Cowen John",
+        "contactLink": "john.cowen@cob.us",
+        "districtOrJurisdiction": "At-Large",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Brownsville City Commissioner",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Police Union",
+        "extra": "",
+        "contributionSummary": {
+            "Corpus Christi Police Officers' Assn. PAC Fund": 2500.00,
+            "Arlington Police Assn. PAC": 2500.00,
+            "El Paso Municipal Police Officers' Association PAC": 10000.00,
+            "El Paso County Sheriff's Officers Assn., Inc.": 5000.00,
+            "Waco Police Association Political Action Committee": 5000.00,
+            "Austin Police Association PAC": 10000.00
+        },
+        "electedOfficialName": "CLEAT PAC",
+        "contactLink": "charley.Wilkison@cleat.org",
+        "districtOrJurisdiction": "Texas",
+        "alternateContact": "https://www.cleat.org/contact-us/",
+        "officeRanForOrDescription": "Police Union",
+        "totalContribution": 35000.00
+    },
+    {
+        "fullPosition": "Tom Green County Sherrif",
+        "extra": "",
+        "contributionSummary": {
+            "San Angelo Police Officer's Political Action Committee": 4000.00
+        },
+        "electedOfficialName": "Nick Hanna",
+        "contactLink": "hannajnick@gmail.com",
+        "districtOrJurisdiction": "Sherrif",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Tom Green County Sherrif",
+        "totalContribution": 4000.00
+    },
+    {
+        "fullPosition": "Travis County Court at Law",
+        "extra": "",
+        "contributionSummary": {
+            "Travis County Sheriff's Law Enforcement Association PAC": 1000.00
+        },
+        "electedOfficialName": "Dimple Malhorta",
+        "contactLink": "DIMPLE4JUDGE@GMAIL.COM",
+        "districtOrJurisdiction": "4",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Travis County Court at Law",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Travis County Attorney",
+        "extra": "",
+        "contributionSummary": {
+            "Travis County Sheriff's Law Enforcement Association PAC": 2500.00,
+            "Austin Police Association PAC": 5000.00
+        },
+        "electedOfficialName": "Mike Denton ",
+        "contactLink": "mike@votemikedenton.com",
+        "districtOrJurisdiction": "Travis County",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Travis County Attorney",
+        "totalContribution": 7500.00
+    },
+    {
+        "fullPosition": "Montgomery County Sheriff",
+        "extra": "",
+        "contributionSummary": {
+            "Montgomery County Law Enforcement Association": 2500.00
+        },
+        "electedOfficialName": "Rand Henderson",
+        "contactLink": "",
+        "districtOrJurisdiction": "Montgomery County ",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Montgomery County Sheriff",
+        "totalContribution": 2500.00
+    },
+    {
+        "fullPosition": "Galveston County Constable",
+        "extra": "",
+        "contributionSummary": {
+            "Galveston Municipal Police Association Political Action Committee": 500.00
+        },
+        "electedOfficialName": "Jimmy Fullen",
+        "contactLink": "webmaster@co.galveston.tx.us",
+        "districtOrJurisdiction": "Pct. 2",
+        "alternateContact": "(409) 770-6229",
+        "officeRanForOrDescription": "Galveston County Constable",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Houston City Council Place A",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 500.00,
+            "Houston Police Officers Union PAC": 8500.00
+        },
+        "electedOfficialName": "Amy Peck",
+        "contactLink": "districta@houstontx.gov",
+        "districtOrJurisdiction": "A",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 9000.00
+    },
+    {
+        "fullPosition": "Houston City Council Place At-Large",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 500.00,
+            "Houston Police Officers Union PAC": 10000.00
+        },
+        "electedOfficialName": "Michael Kubosh",
+        "contactLink": "atlarge3@houstontx.gov",
+        "districtOrJurisdiction": "At-Large",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 10500.00
+    },
+    {
+        "fullPosition": "McKinney City Council Place At-Large",
+        "extra": "Commissioner on President Trump's Commision on Law Enforcement",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 500.00,
+            "McKinney Police Association FOP #107": 2000.00,
+            "Dallas Police Officer's PAC": 2000.00
+        },
+        "electedOfficialName": "Frederick Frazier",
+        "contactLink": "frazier7324@tx.rr.com",
+        "districtOrJurisdiction": "At-Large",
+        "alternateContact": "",
+        "officeRanForOrDescription": "McKinney City Council",
+        "totalContribution": 4500.00
+    },
+    {
+        "fullPosition": "Mayor of Galveston",
+        "extra": "",
+        "contributionSummary": {
+            "Galveston Municipal Police Association Political Action Committee": 6500.00
+        },
+        "electedOfficialName": "Bo Quiroga",
+        "contactLink": "rogerquiroga@ymail.com",
+        "districtOrJurisdiction": "",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Mayor of Galveston",
+        "totalContribution": 6500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 27",
+        "extra": "",
+        "contributionSummary": {
+            "Texas Municipal Police Assn. PAC": 1000.00,
+            "Combined Law Enforcement Assns. Of Texas PAC": 1000.00
+        },
+        "electedOfficialName": "Eddie Lucio Jr ",
+        "contactLink": "eddie.lucio@senate.texas.gov",
+        "districtOrJurisdiction": "27",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 2000.00
+    },
+    {
+        "fullPosition": "Harris County Constable",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 600.00
+        },
+        "electedOfficialName": "Mark Herman",
+        "contactLink": "",
+        "districtOrJurisdiction": "Pct. 4",
+        "alternateContact": "281-376-3472",
+        "officeRanForOrDescription": "Harris County Constable",
+        "totalContribution": 600.00
+    },
+    {
+        "fullPosition": "Texas District Court",
+        "extra": "Election in Nov",
+        "contributionSummary": {
+            "Travis County Sheriff's Law Enforcement Association PAC": 1000.00,
+            "Austin Police Association PAC": 500.00
+        },
+        "electedOfficialName": "Dayna Blazey ",
+        "contactLink": "dayna@daynaforjudge.com",
+        "districtOrJurisdiction": "167",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas District Court",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Texas Court of Criminal Appeals",
+        "extra": "",
+        "contributionSummary": {
+            "San Antonio Police Officers Assn. PAC": 500.00
+        },
+        "electedOfficialName": "Bert Richardson",
+        "contactLink": "",
+        "districtOrJurisdiction": "Place 3",
+        "alternateContact": "http://www.electjudgerichardson.com/contact.php",
+        "officeRanForOrDescription": "Texas Court of Criminal Appeals",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 79",
+        "extra": "",
+        "contributionSummary": {
+            "El Paso Municipal Police Officers' Association PAC": 5000.00
+        },
+        "electedOfficialName": "Art Fierro ",
+        "contactLink": "Art.Fierro@house.texas.gov",
+        "districtOrJurisdiction": "79",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 5000.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 2",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 1000.00,
+            "Texas Municipal Police Assn. PAC": 500.00
+        },
+        "electedOfficialName": "Dan Flynn ",
+        "contactLink": "dan.flynn@house.texas.gov",
+        "districtOrJurisdiction": "2",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 85",
+        "extra": "",
+        "contributionSummary": {
+            "Texas Municipal Police Assn. PAC": 500.00
+        },
+        "electedOfficialName": "Phil W Stephenson ",
+        "contactLink": "Phil.Stephenson@house.texas.gov",
+        "districtOrJurisdiction": "85",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "San Antonio City Council Place 9",
+        "extra": "",
+        "contributionSummary": {
+            "San Antonio Fire & Police Pensioners Association - PAC": 1000.00,
+            "San Antonio Police Officers Assn. PAC": 500.00
+        },
+        "electedOfficialName": "John Courage",
+        "contactLink": "",
+        "districtOrJurisdiction": "9",
+        "alternateContact": "https://www.sanantonio.gov/Council/d9/Contact?sendto=District9",
+        "officeRanForOrDescription": "San Antonio City Council",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Williamson County Constable",
+        "extra": "Election in Nov",
+        "contributionSummary": {
+            "Travis County Sheriff's Law Enforcement Association PAC": 500.00
+        },
+        "electedOfficialName": "Jeff Anderson",
+        "contactLink": "Jeff4Constable@gmail.com",
+        "districtOrJurisdiction": "Pct. 2",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Williamson County Constable",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Texas Comptroller of Public Accounts",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 1000.00
+        },
+        "electedOfficialName": "Glenn Hegar Jr ",
+        "contactLink": "glenn.hegar@cpa.texas.gov",
+        "districtOrJurisdiction": "Texas",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas Comptroller of Public Accounts",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "San Antonio Mayor",
+        "extra": "Lost election for Mayor",
+        "contributionSummary": {
+            "San Antonio Fire & Police Pensioners Association - PAC": 1500.00
+        },
+        "electedOfficialName": "Greg Brockhouse",
+        "contactLink": "",
+        "districtOrJurisdiction": "San Antonio",
+        "alternateContact": "https://gregbrockhouse.com/Contact/",
+        "officeRanForOrDescription": "San Antonio Mayor",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 145",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 1000.00,
+            "Dallas Police Officer's PAC": 500.00
+        },
+        "electedOfficialName": "Christina Morales",
+        "contactLink": "",
+        "districtOrJurisdiction": "145",
+        "alternateContact": "https://house.texas.gov/members/member-page/email/?district=145&session=86",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 37",
+        "extra": "",
+        "contributionSummary": {
+            "Texas Municipal Police Assn. PAC": 500.00
+        },
+        "electedOfficialName": "Alex Dominquez",
+        "contactLink": "alex.dominguez@house.texas.gov",
+        "districtOrJurisdiction": "37",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "District Court Judge",
+        "extra": "",
+        "contributionSummary": {
+            "San Antonio Police Officers Assn. PAC": 500.00
+        },
+        "electedOfficialName": "Rosie Alvarado",
+        "contactLink": "",
+        "districtOrJurisdiction": "438 DC",
+        "alternateContact": "",
+        "officeRanForOrDescription": "District Court Judge",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "San Antonio City Council Place 4",
+        "extra": "",
+        "contributionSummary": {
+            "San Antonio Fire & Police Pensioners Association - PAC": 500.00,
+            "San Antonio Police Officers Assn. PAC": 500.00
+        },
+        "electedOfficialName": "Adriana Garcia",
+        "contactLink": "district4@sanantonio.gov",
+        "districtOrJurisdiction": "4",
+        "alternateContact": "https://www.sanantonio.gov/Council/d4/Contact?sendto=District4",
+        "officeRanForOrDescription": "San Antonio City Council",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Travis County Constable",
+        "extra": "Lost",
+        "contributionSummary": {
+            "Austin Police Association PAC": 1000.00
+        },
+        "electedOfficialName": "Sam Holt ",
+        "contactLink": "HOLTSAM.AC398@yahoo.com",
+        "districtOrJurisdiction": "Pct. 1",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Travis County Constable",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 4",
+        "extra": "",
+        "contributionSummary": {
+            "Texas Municipal Police Assn. PAC": 1287.04
+        },
+        "electedOfficialName": "Keith Bell ",
+        "contactLink": "keith.bell@house.texas.gov",
+        "districtOrJurisdiction": "4",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1287.04
+    },
+    {
+        "fullPosition": "Texas State Senate District 14",
+        "extra": "",
+        "contributionSummary": {
+            "Austin Police Association PAC": 1000.00
+        },
+        "electedOfficialName": "Kirk Watson ",
+        "contactLink": "kirk.watson@senate.state.tx.us",
+        "districtOrJurisdiction": "14",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas State Senate",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Travis County Commissioners Court",
+        "extra": "",
+        "contributionSummary": {
+            "Travis County Sheriff's Law Enforcement Association PAC": 10000.00,
+            "Austin Police Association PAC": 1000.00
+        },
+        "electedOfficialName": "Jeff Travillion",
+        "contactLink": "travillioncampaign@gmail.com",
+        "districtOrJurisdiction": "1",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Travis County Commissioners Court",
+        "totalContribution": 11000.00
+    },
+    {
+        "fullPosition": "Texas State Senate District 21",
+        "extra": "",
+        "contributionSummary": {
+            "Austin Police Association PAC": 500.00,
+            "Combined Law Enforcement Assns. Of Texas PAC": 2500.00
+        },
+        "electedOfficialName": "Judith Zaffirini ",
+        "contactLink": "judith.zaffirini@senate.texas.gov",
+        "districtOrJurisdiction": "21",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas State Senate",
+        "totalContribution": 3000.00
+    },
+    {
+        "fullPosition": "Houston ISD School Board",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 1000.00
+        },
+        "electedOfficialName": "Wanda Adams ",
+        "contactLink": "wadams2@houstonisd.org",
+        "districtOrJurisdiction": "IX",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston ISD School Board",
+        "totalContribution": 1000.00
+    },
+    {
+        "fullPosition": "Montgomery County District Attorney",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 1500.00,
+            "Montgomery County Law Enforcement Association": 2500.00
+        },
+        "electedOfficialName": "Brett Ligon",
+        "contactLink": "DA.Info@mctx.org",
+        "districtOrJurisdiction": "Montgomery County",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Montgomery County District Attorney",
+        "totalContribution": 4000.00
+    },
+    {
+        "fullPosition": "Bexar County Commissioner",
+        "extra": "",
+        "contributionSummary": {
+            "San Antonio Police Officers Assn. PAC": 500.00
+        },
+        "electedOfficialName": "Justin Rodriguez",
+        "contactLink": "precinct2commissioner@bexar.org",
+        "districtOrJurisdiction": "Pct. 2",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Bexar County Commissioner",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Texas State Senate District 13",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 5000.00
+        },
+        "electedOfficialName": "Borris Lee Miles",
+        "contactLink": "",
+        "districtOrJurisdiction": "13",
+        "alternateContact": "https://senate.texas.gov/memberform.php?auth=UU%2FYuArHSOnVYhsbQDKrBuJ8EIczWG%2FyS3Sy5gJZ0Nc6XzpfOgyfPNtJysGjjpZvNM8G08SpJRhEdL2UIJkGBekSGKFDLJwLOnw6fDrgGm84Y4MQwNmqlkYFspIL&lang=en",
+        "officeRanForOrDescription": "Texas State Senate",
+        "totalContribution": 5000.00
+    },
+    {
+        "fullPosition": "Harris County Constable",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 600.00
+        },
+        "electedOfficialName": "Ted Heap ",
+        "contactLink": "C5IAD@cn5.hctx.net",
+        "districtOrJurisdiction": "Pct. 5",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Harris County Constable",
+        "totalContribution": 600.00
+    },
+    {
+        "fullPosition": "Texas District Court",
+        "extra": "Election in Nov",
+        "contributionSummary": {
+            "El Paso Municipal Police Officers' Association PAC": 2000.00
+        },
+        "electedOfficialName": "Paty Baca ",
+        "contactLink": "patybacacampaign@gmail.com",
+        "districtOrJurisdiction": "346",
+        "alternateContact": "https://patybacaforjudge.com/#contact",
+        "officeRanForOrDescription": "Texas District Court",
+        "totalContribution": 2000.00
+    },
+    {
+        "fullPosition": "Harris County Constable",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 600.00
+        },
+        "electedOfficialName": "May Walker ",
+        "contactLink": "Anna.Carriere@cn7.hctx.net",
+        "districtOrJurisdiction": "Pct. 7",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Harris County Constable",
+        "totalContribution": 600.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 121",
+        "extra": "",
+        "contributionSummary": {
+            "San Antonio Police Officers Assn. PAC": 1500.00
+        },
+        "electedOfficialName": "Stephen Allison",
+        "contactLink": "steve.allison@house.texas.gov",
+        "districtOrJurisdiction": "121",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Texas State Senate District 15",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 1500.00,
+            "Houston Police Officers Union PAC": 10000.00,
+            "Dallas Police Officer's PAC": 2000.00
+        },
+        "electedOfficialName": "John Whitmire",
+        "contactLink": "john.whitmire@senate.texas.gov",
+        "districtOrJurisdiction": "15",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas State Senate",
+        "totalContribution": 13500.00
+    },
+    {
+        "fullPosition": "Texas Court of Criminal Appeals",
+        "extra": "",
+        "contributionSummary": {
+            "San Antonio Police Officers Assn. PAC": 500.00
+        },
+        "electedOfficialName": "David Newell",
+        "contactLink": "judgenewell@gmail.com",
+        "districtOrJurisdiction": "Place 9",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas Court of Criminal Appeals",
+        "totalContribution": 500.00
+    },
+    {
+        "fullPosition": "Houston City Council Place At-Large",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 500.00,
+            "Houston Police Officers Union PAC": 6000.00
+        },
+        "electedOfficialName": "Sallie Alcorn",
+        "contactLink": "atlarge5@houstontx.gov",
+        "districtOrJurisdiction": "At-Large",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 6500.00
+    },
+    {
+        "fullPosition": "Houston City Council Place C",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 500.00,
+            "Houston Police Officers Union PAC": 2000.00
+        },
+        "electedOfficialName": "Abbie Kamin",
+        "contactLink": "districtc@houstontx.gov",
+        "districtOrJurisdiction": "C",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 2500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 129",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 1500.00
+        },
+        "electedOfficialName": "Dennis Paul",
+        "contactLink": "Dennis.Paul@house.texas.gov",
+        "districtOrJurisdiction": "129",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Houston City Council Place E",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 500.00,
+            "Houston Police Officers Union PAC": 5000.00
+        },
+        "electedOfficialName": "David Martin",
+        "contactLink": "districte@houstontx.gov",
+        "districtOrJurisdiction": "E",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 5500.00
+    },
+    {
+        "fullPosition": "Dallas City Council Place 2",
+        "extra": "",
+        "contributionSummary": {
+            "Dallas Police Officer's PAC": 250.00
+        },
+        "electedOfficialName": "Adam Medrano",
+        "contactLink": "adam.medrano@dallascityhall.com",
+        "districtOrJurisdiction": "2",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Dallas City Council",
+        "totalContribution": 250.00
+    },
+    {
+        "fullPosition": "Arlington City Council Place 5",
+        "extra": "",
+        "contributionSummary": {
+            "Arlington Police Assn. PAC": 2000.00
+        },
+        "electedOfficialName": "Ignacio Nunez",
+        "contactLink": "Ignacio.Nunez@arlingtontx.gov",
+        "districtOrJurisdiction": "5",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Arlington City Council",
+        "totalContribution": 2000.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 9",
+        "extra": "",
+        "contributionSummary": {
+            "Texas Municipal Police Assn. PAC": 500.00,
+            "Dallas Police Officer's PAC": 2500.00
+        },
+        "electedOfficialName": "Chris Paddie",
+        "contactLink": "chris.paddie@house.texas.gov",
+        "districtOrJurisdiction": "9",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 3000.00
+    },
+    {
+        "fullPosition": "Houston City Council Place G",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Retired Officers Association - P.A.C.": 500.00,
+            "Houston Police Officers Union PAC": 5000.00
+        },
+        "electedOfficialName": "Greg Travis",
+        "contactLink": "districtg@houstontx.gov",
+        "districtOrJurisdiction": "G",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Houston City Council",
+        "totalContribution": 5500.00
+    },
+    {
+        "fullPosition": "Harris County Commissioner",
+        "extra": "Lost",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 5000.00
+        },
+        "electedOfficialName": "Maria T Jackson",
+        "contactLink": "",
+        "districtOrJurisdiction": "Harris County",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Harris County Commissioner",
+        "totalContribution": 5000.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 119",
+        "extra": "",
+        "contributionSummary": {
+            "San Antonio Fire & Police Pensioners Association - PAC": 900.00
+        },
+        "electedOfficialName": "Rolando Gutierrez ",
+        "contactLink": "Roland.Gutierrez@house.texas.gov",
+        "districtOrJurisdiction": "119",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 900.00
+    },
+    {
+        "fullPosition": "Mesquite City Council Place 3",
+        "extra": "Former (2009-2011)",
+        "contributionSummary": {
+            "Mesquite Police Association PAC": 1500.00
+        },
+        "electedOfficialName": "Robert Miklos",
+        "contactLink": "district3@cityofmesquite.com",
+        "districtOrJurisdiction": "3",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Mesquite City Council",
+        "totalContribution": 1500.00
+    },
+    {
+        "fullPosition": "Texas House of Representatives District 47",
+        "extra": "",
+        "contributionSummary": {
+            "Houston Police Officers Union PAC": 1000.00,
+            "Combined Law Enforcement Assns. Of Texas PAC": 1000.00,
+            "Austin Police Association PAC": 5000.00,
+            "Dallas Police Officer's PAC": 1000.00,
+            "San Antonio Police Officers Assn. PAC": 1500.00
+        },
+        "electedOfficialName": "Justin L Berry ",
+        "contactLink": "",
+        "districtOrJurisdiction": "47",
+        "alternateContact": "",
+        "officeRanForOrDescription": "Texas House of Representatives",
+        "totalContribution": 9500.00
     }
 ]
