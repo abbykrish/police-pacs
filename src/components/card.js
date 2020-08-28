@@ -2,10 +2,10 @@ import React from "react"
 import styles from './card.module.css'
 
 /**
- * Credits to Garry Tan and this 
- * https://stackoverflow.com/questions/2353211/hsl-to-rgb-color-conversion 
+ * Credits to Garry Tan and this
+ * https://stackoverflow.com/questions/2353211/hsl-to-rgb-color-conversion
  * post
- * 
+ *
  * Converts an HSL color value to RGB. Conversion formula
  * adapted from http://en.wikipedia.org/wiki/HSL_color_space.
  * Assumes h, s, and l are contained in the set [0, 1] and
@@ -42,17 +42,17 @@ function hslToRgb(h, s, l){
 }
 
 export default function Card({person}){
-    const contribution = parseInt(person.totalContribution.replace("$", "").replace(",",""))
+    const contribution = person.totalContribution
+    const moneyFormatted = "$" + contribution.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
     const color = hslToRgb(0, Math.min(Math.max(contribution, 2500), 10000.0)/15000.0, .42)
     return (
             <div className={styles.card}>
                 <div className={styles.card_element}>
                     <p className={styles.card_title}>{person.electedOfficialName}</p>
-                    <p className={`${styles.card_text} ${styles.text_muted}`}> {person.officeRanForOrDescription} </p> 
-                    <p className={`${styles.card_text} ${styles.text_muted}`}> {person.districtOrJurisdiction} </p>
+                    <p className={`${styles.card_text} ${styles.text_muted}`}> {person.fullPosition} </p>
                 </div>
                 <div className={styles.amount_due} style={{backgroundColor: color}}>
-                    <p className={styles.card_text}>{person.totalContribution}</p>
+                    <p className={styles.card_text}>{moneyFormatted}</p>
                 </div>
             </div>
     )

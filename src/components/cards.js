@@ -3,7 +3,7 @@ import Card from './card'
 import styles from './cards.module.css'
 
 const HEADERS = [
-  "policeDeptPac", 
+  "policeDeptPac",
   "electedOfficialName",
   "officeRanForOrDescription",
   "districtOrJurisdiction",
