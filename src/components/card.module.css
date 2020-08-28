@@ -1,0 +1,47 @@
+.card{
+    margin: 1%;
+    padding: 0px;
+    border-radius: 12px;
+    width: 31%;
+}
+
+.card_body{
+    padding: 0px;
+}
+
+
+.card_body-body .card-element{
+    padding: 1.25rem;
+    padding-left: 20px;
+}
+
+.amount-due{
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    background-clip: border-box;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.amount-due .card-text{
+    text-align: center;
+}
+
+.locations{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+    flex-basis: fill;
+    margin-top: 20px;
+}
+
+@media (max-width: 768px) { 
+    .card{
+        padding: 0px;
+        border-radius: 12px;
+        width: 100%;
+    }
+}

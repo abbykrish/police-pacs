@@ -1,0 +1,140 @@
+html, body{
+    width: 100%;
+    height: 100%;
+    overflow-x: hidden;
+}
+
+#cards{
+    /* align-items: stretch; */
+    display: flex;
+    /* width: 100%; */
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin: 1%;
+    padding: 0px;
+    border-radius: 12px;
+    width: 31%;
+}
+
+@media (max-width: 768px) { 
+    .card{
+        padding: 0px;
+        border-radius: 12px;
+        width: 100%;
+    }
+}
+
+
+.card-body{
+    padding: 0px;
+}
+
+.card-body .row{
+    background-clip: border-box;
+}
+
+.card-body .card-element{
+    padding: 1.25rem;
+    padding-left: 20px;
+}
+
+.amount-due{
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    background-clip: border-box;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.amount-due .card-text{
+    text-align: center;
+}
+
+.main_window{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.locations{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    width: 100%;
+    flex-basis: fill;
+    margin-top: 20px;
+}
+
+a:hover{
+    color: #26A69A;
+    text-decoration: normal;
+}
+
+a{
+    font-weight: bold;
+    color: black;
+}
+
+/* container */
+
+#share {
+    width: 100%;
+    margin: 100px auto;
+    text-align: center;
+}
+
+/* buttons */
+
+#share a {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    margin: 8px;
+    border-radius: 50%;
+    font-size: 24px;
+    color: #fff;
+    opacity: 0.75;
+    transition: opacity 0.15s linear;
+}
+
+#share a:hover {
+    opacity: 1;
+}
+
+/* icons */
+
+#share i {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/* colors */
+
+.facebook {
+    background: #3b5998;
+}
+
+.twitter {
+    background: #55acee;
+}
+
+.googleplus {
+    background: #dd4b39;
+}
+
+.linkedin {
+    background: #0077b5;
+}
+
+.pinterest {
+    background: #cb2027;
+}
