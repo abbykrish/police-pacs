@@ -15,6 +15,31 @@
     font-style: oblique;
     font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: stretch;
+    align-items: center;
+    margin-top: 12px;
+}
+
+.header_title{
+    font-size: 4em;
+    font-weight: bold;
+    font-family: Impact, fantasy;
+}
+
+.header_description{
+    width: 30%;
+    margin-left: 24px;
+    font-size: 1em;
+    font-style: oblique;
 }
 
 @media (max-width: 768px) { 

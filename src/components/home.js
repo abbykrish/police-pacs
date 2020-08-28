@@ -22,12 +22,23 @@ export default function Home() {
 
   return (
     <div className={styles.container}>
-        <input 
-          className={styles.search}
-          value={searchTerm} 
-          onChange={(event) => {setSearchTerm(event.target.value); setCardsToDisplay(searchInContributions(event.target.value))}} 
-        />
-        <Cards cards={cardsToDisplay}/>
+        <div className={styles.header}>
+          <div className={styles.header_title}>
+            PAC-IT-UP!
+          </div>
+          <div className={styles.header_description}>
+          In 2019 alone, nearly half a million dollars were donated to campaigns for elected office across the Senate. Most of these are local, city-wide positions. How can we expect our local Representatives, DAs and more to commit to police reform when they rely on their contribution?
+          </div>
+        </div>
+        <div> 
+          <input 
+            className={styles.search}
+            value={searchTerm} 
+            placeholder="Search"
+            onChange={(event) => {setSearchTerm(event.target.value); setCardsToDisplay(searchInContributions(event.target.value))}} 
+          />
+          <Cards cards={cardsToDisplay}/>
+        </div>
     </div>
   )
 }
