@@ -1,10 +1,10 @@
 import React from "react"
 
-import Cards from "../components/cards"
+import Home from "../components/home"
 
 const IndexPage = () => (
   <div>
-    <Cards/>
+    <Home/>
   </div>
 )
 

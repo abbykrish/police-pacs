@@ -1,0 +1,24 @@
+.container{
+    width: 70%;
+    margin-left: 15%;
+}
+
+.search{
+    border: 2px solid black;
+    height: 24px;
+    font-size: 1em;
+    margin: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    width: calc(100% - 100px - 20px - 4px);
+    padding: 10px;
+    font-style: oblique;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+@media (max-width: 768px) { 
+    .container{
+        width: 100%;
+    }
+}

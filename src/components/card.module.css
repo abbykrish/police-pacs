@@ -15,6 +15,17 @@
     padding-left: 20px;
 }
 
+.card_title{
+    font-size: 1em;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.card_text{
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
 .amount_due{
     border-top-right-radius: 12px;
     border-bottom-right-radius: 12px;
@@ -34,6 +45,7 @@
 
 .text_muted{
     color: gray;
+    font-size: .8em;
 }
 
 .locations{

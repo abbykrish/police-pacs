@@ -1,8 +1,6 @@
 import React from "react"
 import Card from './card'
-import Contributions from '../../data/police-contributions.json'
 import styles from './cards.module.css'
-console.log(styles)
 
 const HEADERS = [
   "policeDeptPac", 
@@ -22,12 +20,10 @@ const HEADER_TITLES = [
   "Contact"
 ]
 
-export default function Cards() {
+export default function Cards({cards}) {
   return (
-      <div className={styles.container}>
         <div className={styles.cards}>
-          {Contributions.map( (person, index) => (<Card key={index} person={person}/>))}
+          {cards.map( (person, index) => (<Card key={index} person={person}/>))}
         </div>
-      </div>
   )
 }

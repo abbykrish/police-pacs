@@ -47,8 +47,8 @@ export default function Card({person}){
     return (
             <div className={styles.card}>
                 <div className={styles.card_element}>
-                    <h4 className={styles.card_title}>{person.electedOfficialName}</h4>
-                    <h5 className={styles.card_text}> {person.officeRanForOrDescription} </h5> 
+                    <p className={styles.card_title}>{person.electedOfficialName}</p>
+                    <p className={`${styles.card_text} ${styles.text_muted}`}> {person.officeRanForOrDescription} </p> 
                     <p className={`${styles.card_text} ${styles.text_muted}`}> {person.districtOrJurisdiction} </p>
                 </div>
                 <div className={styles.amount_due} style={{backgroundColor: color}}>
