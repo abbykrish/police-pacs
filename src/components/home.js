@@ -30,7 +30,9 @@ export default function Home() {
             PAC-IT-UP!
           </div>
           <div className={styles.header_description}>
-          In 2019 alone, nearly half a million dollars were donated to campaigns for elected office across the Senate. Most of these are local, city-wide positions. How can we expect our local Representatives, DAs and more to commit to police reform when they rely on their contribution?
+            <p>In 2019 alone, nearly half a million dollars were donated to campaigns across all levels in Texas. How can we expect our local officials to serve us when they rely on police contributions?</p>
+            <p>Urge your representatives refuse police PAC money today</p>
+            <p class={styles.bold}>It is time for representatives funded by police money to pack it up.</p>
           </div>
         </div>
         <div>

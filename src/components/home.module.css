@@ -40,9 +40,13 @@
     margin-left: 24px;
     font-size: 1em;
     font-style: oblique;
+    font-family: Verdana;
+}
+.bold {
+    font-weight:bold;
 }
 
-@media (max-width: 768px) { 
+@media (max-width: 768px) {
     .container{
         width: 100%;
     }
