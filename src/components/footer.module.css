@@ -1,0 +1,25 @@
+.container{
+    width:100%;
+    margin-left: 15%;
+}
+
+.footer_titles{
+    font-size: 2em;
+    font-weight: bold;
+    font-family: Verdana, fantasy;
+}
+
+.footer_descriptions{
+    width: 30%;
+    margin-left: 24px;
+    font-size: 1em;
+    font-family: Verdana;
+}
+
+.footer_descriptions_italicize{
+    width: 30%;
+    margin-left: 24px;
+    font-size: 1em;
+    font-style: oblique;
+    font-family: Verdana;
+}
