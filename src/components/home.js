@@ -35,6 +35,7 @@ export default function Home() {
             <p className={styles.bold}>It is time for representatives funded by police money to pack it up.</p>
           </div>
         </div>
+        <div className={styles.find_rep}> <p className={styles.bold}> <a href="https://myreps.datamade.us/"> Find your representative </a></p> </div>
         <div>
           <input
             className={styles.search}

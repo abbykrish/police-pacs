@@ -66,6 +66,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     display: flex; 
     flex-direction: row;
+    overflow-y: visible;
 }
 
 .button{

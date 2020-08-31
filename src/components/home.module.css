@@ -37,12 +37,13 @@
 }
 
 .header_description{
-    width: 30%;
+    width: 40%;
     margin-left: 24px;
     font-size: 1em;
     font-style: oblique;
     font-family: Verdana;
 }
+
 .bold {
     font-weight:bold;
 }
@@ -52,4 +53,19 @@
         width: 100%;
         margin-left: 0%;
     }
+    
+    .header{
+        flex-direction: column;
+    }
+
+    .header_description{
+        width: 100%;
+    }
+}
+
+.find_rep{
+    text-align: center;
+    font-size: 1em;
+    font-style: oblique;
+    font-family: Verdana;
 }
