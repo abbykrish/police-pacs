@@ -1,5 +1,6 @@
 import React from "react"
 import styles from './card.module.css'
+import Modal from "./modal"
 
 /**
  * Credits to Garry Tan and this
@@ -42,11 +43,15 @@ function hslToRgb(h, s, l){
 }
 
 export default function Card({person}){
+    const [modalVisible, setModalVisible] = React.useState(false)
+    const toggleModal = () => setModalVisible(!modalVisible)
+    
     const contribution = person.totalContribution
     const moneyFormatted = "$" + contribution.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
     const color = hslToRgb(0, Math.min(Math.max(contribution, 2500), 10000.0)/15000.0, .42)
     return (
-            <div className={styles.card}>
+        <>
+            <div className={styles.card} onClick={toggleModal}>
                 <div className={styles.card_element}>
                     <p className={styles.card_title}>{person.electedOfficialName}</p>
                     <p className={`${styles.card_text} ${styles.text_muted}`}> {person.fullPosition} </p>
@@ -55,5 +60,9 @@ export default function Card({person}){
                     <p className={styles.card_text}>{moneyFormatted}</p>
                 </div>
             </div>
+            <Modal visible={modalVisible} onChange={toggleModal}>
+                
+            </Modal>
+        </>
     )
 }

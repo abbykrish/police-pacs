@@ -8,6 +8,7 @@
     justify-content: space-between;
     box-shadow: 5px 5px 5px grey;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    cursor: pointer;
 }
 
 .card_element{
