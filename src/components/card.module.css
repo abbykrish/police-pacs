@@ -58,10 +58,40 @@
     margin-top: 20px;
 }
 
+/***********
+*   Modal  *
+************/
+
+.modal{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex; 
+    flex-direction: row;
+}
+
+.info_section{
+    width: 50%;
+}
+
+.email_section{
+    width: 50%;
+}
+
 @media (max-width: 768px) { 
     .card{
         padding: 0px;
         border-radius: 12px;
+        width: 100%;
+    }
+
+    .modal{
+        flex-direction: column;
+    }
+
+    .info_section{
+        width: 100%;
+    }
+
+    .email_section{
         width: 100%;
     }
 }

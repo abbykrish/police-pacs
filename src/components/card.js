@@ -1,6 +1,7 @@
 import React from "react"
 import styles from './card.module.css'
 import Modal from "./modal"
+// import { FaEnvelopeOpenText } from 'react-icons/fa'
 
 /**
  * Credits to Garry Tan and this
@@ -42,12 +43,20 @@ function hslToRgb(h, s, l){
     return "#" + Math.round(r * 255).toString(16) + Math.round(g * 255).toString(16) + Math.round(b * 255).toString(16);
 }
 
+const formatMoney = (amount) =>  "$" + amount.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
+
+function breakdown([pac, amount]){
+    return (
+            <li key={pac}> <b>{pac}</b>: {formatMoney(amount)} </li>
+    )
+}
+
 export default function Card({person}){
     const [modalVisible, setModalVisible] = React.useState(false)
     const toggleModal = () => setModalVisible(!modalVisible)
     
     const contribution = person.totalContribution
-    const moneyFormatted = "$" + contribution.toFixed(2).replace(/\d(?=(\d{3})+\.)/g, '$&,');
+    const moneyFormatted = formatMoney(contribution)
     const color = hslToRgb(0, Math.min(Math.max(contribution, 2500), 10000.0)/15000.0, .42)
     return (
         <>
@@ -60,9 +69,27 @@ export default function Card({person}){
                     <p className={styles.card_text}>{moneyFormatted}</p>
                 </div>
             </div>
-            <Modal visible={modalVisible} onChange={toggleModal}>
-                
+            <Modal visible={modalVisible} onClose={toggleModal}>
+                <div className={styles.modal}>
+                    <div className={styles.info_section}>
+                        <h2>{person.electedOfficialName}</h2>
+                        <h4>{person.fullPosition}</h4>
+                        <p className={styles.cardText}> Total Contribution: {moneyFormatted} </p>
+                        <h3> Contribution breakdown: </h3>
+                        <ul>
+                            {Object.entries(person.contributionSummary).map(breakdown)}
+                        </ul>
+                        <div className={`${styles.email_button} ${styles.button}`}>
+                            {/* Send email <FaEnvelopeOpenText className="email"/> */}
+                        </div>
+                        <div className={`${styles.email_button} ${styles.button}`}>
+                            Additional Contact
+                        </div>
+                    </div>
+                </div>
             </Modal>
         </>
     )
 }
+
+// const email_body = ({electedOfficialName, totalContribution}, organizations, name) => 
