@@ -1,7 +1,7 @@
 import React from "react"
 import styles from './card.module.css'
 import Modal from "./modal"
-// import { FaEnvelopeOpenText } from 'react-icons/fa'
+import { FaEnvelopeOpenText } from 'react-icons/fa'
 
 /**
  * Credits to Garry Tan and this
@@ -58,6 +58,13 @@ export default function Card({person}){
     const contribution = person.totalContribution
     const moneyFormatted = formatMoney(contribution)
     const color = hslToRgb(0, Math.min(Math.max(contribution, 2500), 10000.0)/15000.0, .42)
+
+    const pacs = Object.keys(person.contributionSummary).join(", ");
+
+    let [name, setName] = React.useState("");
+
+    const mailToUri = `mailto:${person.contactLink}?subject=${email_subject}&body=${email_body(person.electedOfficialName, moneyFormatted, pacs, name)}`;
+
     return (
         <>
             <div className={styles.card} onClick={toggleModal}>
@@ -79,12 +86,33 @@ export default function Card({person}){
                         <ul>
                             {Object.entries(person.contributionSummary).map(breakdown)}
                         </ul>
-                        <div className={`${styles.email_button} ${styles.button}`}>
-                            {/* Send email <FaEnvelopeOpenText className="email"/> */}
+                        {
+                                (person.alternateContact.startsWith("http")) ?
+                                    (<><h4> Additional Contact: </h4> <a href={person.alternateContact}>{person.alternateContact} </a></>)
+                                : null
+                        }
+                        <div> 
+                            <a href={mailToUri}>
+                                <div className={`${styles.email_button} ${styles.button}`}>
+                                    Send email <FaEnvelopeOpenText className="email"/>
+                                </div>
+                            </a>                
                         </div>
-                        <div className={`${styles.email_button} ${styles.button}`}>
-                            Additional Contact
-                        </div>
+                    </div>
+                    <div className={styles.email_section}> 
+                        <h3> Email Preview </h3>
+                        <h4> Subject: Call to Policing Fairness in your Community</h4>
+                        <p className={styles.cardText}>Dear {person.electedOfficialName}, </p>
+                        <p className={styles.cardText}> My name is <input placeholder="Your name" value={name} onChange={(event) => setName(event.target.value) }></input>, and I am your constituent. </p>
+                        <p className={styles.cardText}> Using an campaign finance transparency initiative called Transparency USA, I recently discovered that you were given {moneyFormatted} by the following police department based political action committees: {pacs}. </p>
+                          
+                        <p className={styles.cardText}> In light of mass protests inspired by the tragic death of George Floyd across the country, I ask that you commit to the issue of police accountability and condone examples of systemic racism that are present in our policing system. </p>
+
+                        <p className={styles.cardText}> I ask that you match the donation given to you by these police PACs to organizations working for racial justice nationwide. </p>
+
+                        <p className={styles.cardText}> Can I count on you to donate {moneyFormatted} to the Equal Justice Initiative (https://eji.org/), to work towards meaningful criminal justice reform today? </p>
+                        <p className={styles.cardText}>Thanks, </p>
+                        <p className={styles.cardText}>{name}</p>
                     </div>
                 </div>
             </Modal>
@@ -92,4 +120,21 @@ export default function Card({person}){
     )
 }
 
-// const email_body = ({electedOfficialName, totalContribution}, organizations, name) => 
+const email_body = (electedOfficialName, totalContribution, pacs, name) => encodeURIComponent(
+`Dear ${electedOfficialName}, 
+
+My name is ${name}, and I am your constituent.
+Using an campaign finance transparency initiative called Transparency USA, I recently discovered that you were given ${totalContribution} by the following police department based political action committees: ${pacs}
+
+In light of mass protests inspired by the tragic death of George Floyd across the country, I ask that you commit to the issue of police accountability and condone examples of systemic racism that are present in our policing system. 
+
+I ask that you match the donation given to you by these police PACs to organizations working for racial justice nationwide. 
+
+Can I count on you to donate ${totalContribution} to the Equal Justice Initiative(https://eji.org/), to work towards meaningful criminal justice reform today?
+
+Thanks, 
+${name}
+`
+)
+
+const email_subject = encodeURIComponent("Call to Policing Fairness in your Community")
