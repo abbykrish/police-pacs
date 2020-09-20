@@ -96,7 +96,7 @@ export default function Card({person}){
                                 <div className={`${styles.email_button} ${styles.button}`}>
                                     Send email <FaEnvelopeOpenText className="email"/>
                                 </div>
-                            </a>                
+                            </a>
                         </div>
                     </div>
                     <div className={styles.email_section}> 

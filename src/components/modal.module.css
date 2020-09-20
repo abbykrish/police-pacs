@@ -13,10 +13,11 @@
     position: absolute;
     top: 15vh;
     left: 15vw;
-    width: 70vw;
-    height: 70vh;
+    width: calc(70vw - 48px);
+    height: calc(70vh - 48px);
     padding: 24px;
     animation: grow 0.2s ease-in-out;
+    overflow: auto;
 }
 
 @keyframes grow {
@@ -35,4 +36,14 @@
     float: right;
     font-size: 2em;
     cursor: pointer;
+}
+
+
+@media (max-width: 768px) { 
+    .modal{
+        top: 5vh;
+        left: 5vw;
+        width: calc(90vw - 48px);
+        height: calc(90vh - 48px);
+    }
 }
