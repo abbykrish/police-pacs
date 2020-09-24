@@ -33,7 +33,7 @@
 .header_title{
     font-size: 4em;
     font-weight: bold;
-    font-family: Impact, fantasy;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;   
 }
 
 .header_description{
@@ -60,6 +60,9 @@
 
     .header_description{
         width: 100%;
+        margin-left: 0px;
+        padding-left: 4px;
+        padding-right: 4px;
     }
 }
 
