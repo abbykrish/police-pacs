@@ -36,6 +36,7 @@ export default function Home() {
           </div>
         </div>
         <div className={styles.find_rep}> <p className={styles.bold}> <a href="https://myreps.datamade.us/"> Find your representative </a></p> </div>
+        <div className={styles.find_rep}>Breonna Taylor deserves to be here today. Her murder is an example of unchecked, reckless police power. <a href="https://afgj.salsalabs.org/louisvillebailfund/index.html"> Donate to the Louisville Bail Fund.</a></div>
         <div>
           <input
             className={styles.search}
