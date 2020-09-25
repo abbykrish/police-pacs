@@ -54,7 +54,7 @@ function breakdown([pac, amount]){
 export default function Card({person}){
     const [modalVisible, setModalVisible] = React.useState(false)
     const toggleModal = () => setModalVisible(!modalVisible)
-    
+
     const contribution = person.totalContribution
     const moneyFormatted = formatMoney(contribution)
     const color = hslToRgb(0, Math.min(Math.max(contribution, 2500), 10000.0)/15000.0, .42)
@@ -91,7 +91,7 @@ export default function Card({person}){
                                     (<><h4> Additional Contact: </h4> <a href={person.alternateContact}>{person.alternateContact} </a></>)
                                 : null
                         }
-                        <div> 
+                        <div>
                             <a href={mailToUri}>
                                 <div className={`${styles.email_button} ${styles.button}`}>
                                     Send email <FaEnvelopeOpenText className="email"/>
@@ -99,13 +99,13 @@ export default function Card({person}){
                             </a>
                         </div>
                     </div>
-                    <div className={styles.email_section}> 
+                    <div className={styles.email_section}>
                         <h3> Email Preview </h3>
                         <h4> Subject: Call to Policing Fairness in your Community</h4>
                         <p className={styles.cardText}>Dear {person.electedOfficialName}, </p>
                         <p className={styles.cardText}> My name is <input placeholder="Your name" value={name} onChange={(event) => setName(event.target.value) }></input>, and I am your constituent. </p>
                         <p className={styles.cardText}> Using an campaign finance transparency initiative called Transparency USA, I recently discovered that you were given {moneyFormatted} by the following police department based political action committees: {pacs}. </p>
-                          
+
                         <p className={styles.cardText}> In light of mass protests inspired by the tragic death of George Floyd across the country, I ask that you commit to the issue of police accountability and condone examples of systemic racism that are present in our policing system. </p>
 
                         <p className={styles.cardText}> I ask that you match the donation given to you by these police PACs to organizations working for racial justice nationwide. </p>
@@ -121,18 +121,18 @@ export default function Card({person}){
 }
 
 const email_body = (electedOfficialName, totalContribution, pacs, name) => encodeURIComponent(
-`Dear ${electedOfficialName}, 
+`Dear ${electedOfficialName},
 
 My name is ${name}, and I am your constituent.
-Using an campaign finance transparency initiative called Transparency USA, I recently discovered that you were given ${totalContribution} by the following police department based political action committees: ${pacs}
+Using a campaign finance transparency initiative called Transparency USA, I recently discovered that you were given ${totalContribution} by the following police department based political action committees: ${pacs}
 
-In light of mass protests inspired by the tragic death of George Floyd across the country, I ask that you commit to the issue of police accountability and condone examples of systemic racism that are present in our policing system. 
+In light of mass protests inspired by the tragic death of George Floyd across the country, I ask that you commit to the issue of police accountability and condone examples of systemic racism that are present in our policing system.
 
-I ask that you match the donation given to you by these police PACs to organizations working for racial justice nationwide. 
+I ask that you match the donation given to you by these police PACs to organizations working for racial justice nationwide.
 
 Can I count on you to donate ${totalContribution} to the Equal Justice Initiative(https://eji.org/), to work towards meaningful criminal justice reform today?
 
-Thanks, 
+Thanks,
 ${name}
 `
 )
