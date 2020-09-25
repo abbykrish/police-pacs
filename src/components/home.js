@@ -31,7 +31,7 @@ export default function Home() {
           </div>
           <div className={styles.header_description}>
             <p>In 2019 alone, nearly half a million dollars were donated to campaigns across all levels in Texas. How can we expect our local officials to serve us when they rely on police contributions?</p>
-            <p>Urge your representatives refuse police PAC money today</p>
+            <p>Urge your representatives refuse police PAC money today by clicking on their name</p>
             <p className={styles.bold}>It is time for representatives funded by police money to pack it up.</p>
           </div>
         </div>

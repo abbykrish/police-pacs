@@ -19,13 +19,17 @@
 .footer_titles{
     font-size: 1.5em;
     font-weight: bold;
-    font-family: Verdana, fantasy;
+    font-family: Verdana;
     min-width: 15%;
 }
 
 @media(max-width: 768px){
     .footer_titles{
         width: 100%;
+    }
+
+    .footer_section{
+        flex-direction: column;
     }
 }
 
