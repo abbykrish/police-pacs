@@ -104,7 +104,7 @@ export default function Card({person}){
                         <h4> Subject: Call to Policing Fairness in your Community</h4>
                         <p className={styles.cardText}>Dear {person.electedOfficialName}, </p>
                         <p className={styles.cardText}> My name is <input placeholder="Your name" value={name} onChange={(event) => setName(event.target.value) }></input>, and I am your constituent. </p>
-                        <p className={styles.cardText}> Using an campaign finance transparency initiative called Transparency USA, I recently discovered that you were given {moneyFormatted} by the following police department based political action committees: {pacs}. </p>
+                        <p className={styles.cardText}> Using a campaign finance transparency initiative called Transparency USA, I recently discovered that you were given {moneyFormatted} by the following police department based political action committees: {pacs}. </p>
 
                         <p className={styles.cardText}> In light of mass protests inspired by the tragic death of George Floyd across the country, I ask that you commit to the issue of police accountability and condone examples of systemic racism that are present in our policing system. </p>
 
